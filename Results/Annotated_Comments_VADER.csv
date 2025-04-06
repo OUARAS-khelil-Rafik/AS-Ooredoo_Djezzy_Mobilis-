@@ -9,7 +9,6 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 1,وليد برك,اي عروض مدم رن,Neutre,Neutre
 1,Aymen Aymen,تحيا جازي,Positif,Positif
 1,Maram Akram,bonne annee a tous,Positif,Positif
-1,Plako Platr Ba 13,فرح,Neutre,Neutre
 1,Lina Sami,كيفه نحول عروض جازي منفرد لكي نرجعها هايلة كثيرا,Neutre,Neutre
 1,Yakoub Boussebsi,سنة سعيدة ورجعونا,Positif,Positif
 1,Hamza Othmani,بداية سنة سيئة جدا لقد قطع شبكة ضلم مصلحة الزبائن لا ترد عيب,Negatif,Negatif
@@ -20,10 +19,10 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 1,Şàłàh Şğhïr,عام وانتم بالف خير,Positif,Positif
 1,Sofiane Sofiane,لماذا ديتولي مرة راكم ديروهالي,Negatif,Negatif
 1,Lamine Jseb,بيه شبكة اليوم لا يوجد انترنت ساعات,Negatif,Negatif
-1,マウンテ ンライト,بهد مناسبة تبرع علينا انترنت فرح,Neutre,Neutre
+1,マウンテ ンライト,بهد مناسبة تبرع علينا انترنت,Neutre,Neutre
 1,Bnamer Boutayeb,اصلاح تطبيق نتاعكم,Negatif,Negatif
 1,ゞゞじ づ づ,افعلو اي شيء خاص انترنت,Neutre,Neutre
-1,كنوش سمير,لا يوجد انترنت فرح حزن,Negatif,Negatif
+1,كنوش سمير,لا يوجد انترنت,Negatif,Negatif
 1,Fati Fati,راني مشاركة معاكم اي نهار فرحونا بهديه,Neutre,Neutre
 1,Sofiane Renault Medea,بطيءة,Negatif,Negatif
 1,Sifadine Mehdi,شبكة ما يذهب ياتي,Negatif,Negatif
@@ -33,7 +32,7 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 2,Abdelghani Tahtah,ماهو الكود خاص قرض,Neutre,Neutre
 2,أحمد فيراس,جيد,Positif,Positif
 2,Œœ Œœ,كيفاه نسلف عشرالاف,Neutre,Neutre
-2,Riad BM,يبعثلي فرح فرح,Neutre,Neutre
+2,Riad BM,يبعثلي,Neutre,Neutre
 2,Amine Boudiaf,رجعونا عروض امتياز نزع,Negatif,Negatif
 2,زين الدين ابن البوادي,اود معرفة كيفية سرقة رصيدي الرجاء التوضيح رقمين جازي دائما لا اجد الرصيد djezzy,Negatif,Negatif
 2,Amani Amina,رقم خدمة سلفي,Neutre,Neutre
@@ -97,7 +96,7 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 4,Brahimi Faiza,عام سعيد جازي,Positif,Positif
 4,Moh Alger,امين رب,Positif,Positif
 4,Zara Harmel,امين رب,Positif,Positif
-4,Принц Князья,جازي افعلو هدة حسن شغل مسابقة ليروح يتفرج ليكيب ناسيونال كاس افريقيا جارتكم موبيلي انتم تسفادو وتفيدو المناصرين معاكم فرح,Positif,Positif
+4,Принц Князья,جازي افعلو هدة حسن شغل مسابقة ليروح يتفرج ليكيب ناسيونال كاس افريقيا جارتكم موبيلي انتم تسفادو وتفيدو المناصرين معاكم,Positif,Positif
 4,ياسين ميمز - Yassine mems,نتوما مديرولناش مسابقة,Neutre,Neutre
 4,عبد الحق,عاشت الجزائر عربية مسلمة الى الابد,Positif,Positif
 4,Ämïnë Mø,ما تطبيق محبش يدخل,Negatif,Negatif
@@ -115,7 +114,7 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 5,Sam Sam Ber,nouveau djezzy,Neutre,Neutre
 5,Viaggio Tour,وشنو الشالنج,Neutre,Neutre
 5,Tifa Mehdi,حب,Positif,Positif
-5,Anis Kami,النور عندي مشكلة الرصيد تاعي انه ينقس وحدو رغم اني ماني نعيط ما ني نشري رصيد انترنت زوج خطرات انا تعبئة مدة نلقاه توجور هبط وحدو الى كنت تعبئة ما عنديش لمشكل ولا ما نفيقش ارجو حل شكرا فرح,Negatif,Negatif
+5,Anis Kami,النور عندي مشكلة الرصيد تاعي انه ينقس وحدو رغم اني ماني نعيط ما ني نشري رصيد انترنت زوج خطرات انا تعبئة مدة نلقاه توجور هبط وحدو الى كنت تعبئة ما عنديش لمشكل ولا ما نفيقش ارجو حل شكرا,Negatif,Negatif
 5,Jilali Binamer,اصلاح الا شبكة وحسنو العروض فقط,Negatif,Negatif
 5,Sa,واللي عنده special او confort يقدر يبدل legend,Neutre,Neutre
 5,Brahim Yamine,طريقة تشغيل شريحة جازي هايلة جديدة وماهي المدة لكي يطلقوها البائع قالي نصف ولكن لا شيء جديد,Neutre,Neutre
@@ -124,7 +123,7 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 5,Safaa Amri,سقمولنا التدفق خاص انترنت مبعد ابدعوا فالعروض خاص لواحد تقول فالعصر الحجري kb ps,Negatif,Negatif
 5,لازهاري بن علي,لوكان تريقلو شبكة ننطمو للعرض,Negatif,Negatif
 5,Kamel Trad,يمكن التحويل الى عرض legend,Neutre,Neutre
-5,BLIDA fox 24,ابعتونا لكوديفوار زكارة موبيليس فرح,Neutre,Neutre
+5,BLIDA fox 24,ابعتونا لكوديفوار زكارة موبيليس,Neutre,Neutre
 5,Kh Fateh,american legend,Neutre,Neutre
 5,Lä Přįnçěssë,غضب غضب djezzy app pourquoi arret reseau na,Negatif,Negatif
 5,Mah Di,اي مسابقات نوض اتحرك ضحك,Neutre,Neutre
@@ -276,7 +275,7 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 11,Kilouna Khtouna,اشهر يعني الشهر قليلة كثيرا,Negatif,Negatif
 11,Youcef Nj,تعبئة الف يعطوك,Neutre,Neutre
 11,Saddik Abbes,مليون,Neutre,Neutre
-11,Sou Ma,عندي سؤال رقم عيطولي ومرفدتش خاص الرقم عندو معلومة يقولي فرح,Neutre,Neutre
+11,Sou Ma,عندي سؤال رقم عيطولي ومرفدتش خاص الرقم عندو معلومة يقولي,Neutre,Neutre
 11,Benaziza Mouad,مزال العرض متوفر,Neutre,Neutre
 11,Khaled EL Walid,ودي اطلقولي امتياز خاص,Neutre,Neutre
 11,Farid Halim,ما لا يوجد شبكة,Negatif,Negatif
@@ -326,7 +325,7 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 13,Omar Blidi,انترنت بيفيه انتهاء حفاظ بيانات,Negatif,Negatif
 13,Adam Nasro,صحا عيدكم مبارك وكل عام وانتم بخير وصحه,Positif,Positif
 13,Karim Gouatsou,واش انه صاري لريزو جازي ليوم ايام شبكة لا يوجد برج الكيفان بالضبط الضفة الخضراء vertu rive فهمونا يرحم والديكم,Negatif,Negatif
-13,Houari Boumedien,كشما بقي خصوصيات شيء السيد غوغل والفايسبوك فرح فرح فرح فرح,Neutre,Neutre
+13,Houari Boumedien,كشما بقي خصوصيات شيء السيد غوغل والفايسبوك,Neutre,Neutre
 13,Ly Na,djezzy نقوم تعبئة جازي جازي,Neutre,Neutre
 13,Äïş Śà,ياو اصلاح شبكة,Negatif,Negatif
 13,Yougourta Youba,شبكة ضعيفة سيء انترنت ضعيفة سيء معاملمة مصلحة الزبائن سيء سيء سيء سيء لا يوجد حل للمشاكل سرقة رصيد دون الزبون وخاصتا ناس لا تعلم والناس لكبار,Negatif,Negatif
@@ -422,7 +421,7 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 17,Opl Cvh,بيه التطبيق توقف كامل,Negatif,Negatif
 17,Kh Fateh,افعلو تحويل الى شريخه اسطوره,Neutre,Neutre
 17,Hamada Meftah,بيه شبكة والانترنت ليوم تحسب راكم رابطينه بسلك,Negatif,Neutre
-17,تاحي أنور,سلام عليكم ممكن سؤال عندي شريحة جازي الهدرة راني منين نفيكسي اكتفي وحدها عندكم رمز قوليلي فرح,Neutre,Neutre
+17,تاحي أنور,سلام عليكم ممكن سؤال عندي شريحة جازي الهدرة راني منين نفيكسي اكتفي وحدها عندكم رمز قوليلي,Neutre,Neutre
 17,Tifo Aym,تنازل شريحة العادية باسمي اخي,Neutre,Neutre
 17,Djawed Bobbou,تبانلي الوقت اين البنادم يبدا يطيح نورمال,Negatif,Neutre
 17,LAlmi Ben Kouider,شبكة يبهدل,Negatif,Negatif
@@ -475,7 +474,7 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 19,Samir Kabyle Benabdallah,djezzy,Neutre,Neutre
 19,اسامة العاقل العاقل,والله مكان محتاج قفة رمضان انا ربي داري بحالي,Neutre,Neutre
 19,Abd Eltif Ta HRi,وانتوما لماذا ماتتبرعوش المفروض رمضان تتبرعو بمليون قفة للمعوزين والفقراء,Neutre,Neutre
-19,كنوش سمير,ياودي نفلكسي بدراهمك لا يوجد انترنت حزن حزن احوجي,Negatif,Negatif
+19,كنوش سمير,ياودي نفلكسي بدراهمك لا يوجد انترنت احوجي,Negatif,Negatif
 19,فلسطين القضية,خاوتي كلنا بشعار مايشري شريحة يفتحونا تبديل,Negatif,Negatif
 19,Imè Ne,بمجرد تحميل التطبيق djezzy يتفعل تلقائيا walk for البسمة,Neutre,Neutre
 19,Nadjet Lag Nadjet,وعلاه حبستولي شريحة غضب غضب غضب غضب,Negatif,Negatif
@@ -514,7 +513,7 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 21,Wkli-Hy Hy-Wakli,التدفق ضعيف الى منعدم واتاسف ولكن حال شبكتم ما يخص انترنت يجب اعادة النظر واصلاحها,Negatif,Negatif
 21,الد خيل,ومازلنا نعاني انعدام انترنت خدمات بلدية واد مزي ولاية الاغواط,Negatif,Negatif
 21,اسماء سعيد,شبكة عندنا ناقصة كثيرا افعل,Negatif,Negatif
-21,Yah Ya,كرة الارضية كامل تسمع بينا بلي مشينا جال فرح فرح فرح,Negatif,Negatif
+21,Yah Ya,كرة الارضية كامل تسمع بينا بلي مشينا جال,Negatif,Negatif
 21,اسماعيل حطابي,جازي تغفل طارو القفل,Negatif,Negatif
 21,zelmati azzeddine 󱢏,لماذا الجيقات خاص جازي يخلاصو بالخف منيش فاهم,Negatif,Negatif
 21,Mamat Lina Yeusef,بصح خاص دعوات تتسرق خطرات متعطولناش انترنت,Negatif,Negatif
@@ -564,7 +563,7 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 23,Àdr Adrar,عروض امتياز لمادا توقفت,Neutre,Neutre
 23,Ràw Nék,اين عروض امتياز شريحة كامل,Neutre,Neutre
 23,Moh Amed,عروض مكافئات هاذا رمضان القادم,Neutre,Neutre
-24,Ńæbįl Rb,جازي اشكرك جزيلا الشكر لقد مشيت حوالي خطوة اتمنى الجديد تطبيق جازي قريبا فرح,Positif,Positif
+24,Ńæbįl Rb,جازي اشكرك جزيلا الشكر لقد مشيت حوالي خطوة اتمنى الجديد تطبيق جازي قريبا,Positif,Positif
 24,Nassima Ben,مشيت خطوة محبش يمشيلي ثقيل,Negatif,Negatif
 24,ᎷᎾᏬᎻ ᎯᎷᎬᎠ,ملي درتوها,Neutre,Neutre
 24,Kia Nou,درت لالجيري كاملة,Neutre,Neutre
@@ -582,7 +581,7 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 24,H Sarhane Tano,كونكسييو تقيلة كثيرا بدراهمي لا تعمل,Negatif,Negatif
 24,SãLmã Kh,خطوة,Neutre,Neutre
 24,Badro Ben,درت دعوة ومامدولي انا وصاحبي لا يوجد,Negatif,Negatif
-24,Mäĥãmaed Ýoućëfï,خطوة وشكرا فرح,Positif,Neutre
+24,Mäĥãmaed Ýoućëfï,خطوة وشكرا,Positif,Neutre
 24,راحة البال,نستفاد نقاط امتياز,Neutre,Neutre
 24,Fouad Aouicha,عندكم عروض ولكن شبكة ضعيف كثيرا كثيرا بزاف,Negatif,Negatif
 25,Guediri Guediri Guediri,غضب الرجاء التوقف الاتصال بالرقم تريدون اجباري وضع رنة ماهذه الوقاحة اولادي يستعملون الهاتف ويردون اي لحظة تحاولون ايقاع الزبائن اخطاء ليست طريقة سليمة وصحيحة تتعاملون بيها الزبائن لانكم ارسلتم رسائل رنتي ولو كنت ارغب وضع رنة لفعلت ولكنني لم افعل توقفوا التطفل والاتصال بالزبائن اكتفوا بتحسين شبكة زبائنكم وتصحيح اعطاب الشرائح اما الرنة فالزبون لا يضعها حر غضب,Negatif,Negatif
@@ -629,7 +628,7 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 27,عباد علي ABAD ALI,نحول الخطي جازي ايزي,Neutre,Neutre
 27,Bachir Ñajib,كفاش نفعل عروض امتياز,Neutre,Neutre
 27,Belhadri Amar,شبكة جازي ضعيف كثيرا اصلاح انترنت نتاعكم ومنبعد ساهل غضب غضب غضب غضب,Negatif,Negatif
-27,Ñøür Ëddįñê,وشنهي الخطوات هذو كشما فوائد جاوبونا ناس فرح,Neutre,Neutre
+27,Ñøür Ëddįñê,وشنهي الخطوات هذو كشما فوائد جاوبونا ناس,Neutre,Neutre
 27,حمياني مهدي,اللهم صل وسلم وبارك سيدنا محمد ما ذكره الذاكرون وصل وسلم وبارك سيدنا محمد ما غفل ذكره الغافلون,Positif,Positif
 27,Bóďï Ĺæţ,عندي مشكل جيزي اب,Negatif,Negatif
 27,Schahra Zed Macrame,حسبي الله ونعم الوكيل فيكم سراقين,Negatif,Negatif
@@ -677,7 +676,7 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 29,cosmo dz,مسابقة رمضان ارسل الاسم رقم الهاتف الخاص اسبوع tn black black طريق القرعة شروط المسابقة ارسال رابط الصفحة للاصدقاء,Neutre,Neutre
 30,Khair Edin Mohamed Louati,كملتوها مليار,Neutre,Neutre
 30,Abdou Nimr,جازي الافضل حب حب حب,Positif,Positif
-30,Møhāmēd Âmïne Hãdjêl,مليون خطوة مهكرة فرح,Neutre,Neutre
+30,Møhāmēd Âmïne Hãdjêl,مليون خطوة مهكرة,Neutre,Neutre
 30,روحي مفعمة بحب الله,للاسف خدمات سيئة جدا,Negatif,Negatif
 30,Mehdi Doumi,loukan tetber oulna bonne connexion internet paie rien pratiquement,Negatif,Negatif
 30,كلام,سلام نحي خدمة طرونكيلو,Neutre,Neutre
@@ -719,11 +718,11 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 32,امي جنتي وابي عطرها,عريتوني مكان حالة جازي انترنت بالخف تكمل,Negatif,Negatif
 32,Danzo ST,راهم يحملو مهكر خاص الخطوات,Neutre,Neutre
 32,Abdelhafidh Athmani,سلام كيفية المشاركة مسابقة ranati عبر التطبيق,Neutre,Neutre
-33,Vee Ga,سرق انترنت كثيرا لم افهم لماذا مزال مابدلتش شريحة وقيل سحرتونا فرح,Negatif,Negatif
+33,Vee Ga,سرق انترنت كثيرا لم افهم لماذا مزال مابدلتش شريحة وقيل سحرتونا,Negatif,Negatif
 33,Ramzi Ramzi,هده الاشتركات,Neutre,Neutre
 33,Belkacem Loukman,مسابقة حقيقية باذن الله ايقونات برو iphone برو تنتهي المسابقة طريقة التسجيل سهلة تدخل الرابط وتضع اسمك بالانجليزية واميلك وتضغط entre,Neutre,Neutre
 33,Rãÿáñ Ghâssøũl Rayane,merci,Positif,Positif
-33,Fares Thamri,ليوم فلكسيت سرقوها فرح,Negatif,Negatif
+33,Fares Thamri,ليوم فلكسيت سرقوها,Negatif,Negatif
 33,Fares Thamri,مفهمتش,Neutre,Neutre
 33,حسابي للعمل,مشكل عروض فاشلة,Negatif,Negatif
 33,فايزة ميهوبي,بالتوفيق للجميع,Positif,Positif
@@ -774,7 +773,7 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 37,Nili Nili,كيفاه,Neutre,Neutre
 37,Áŷm Ěñ,كذب,Negatif,Negatif
 37,ﹾ٭ ﹾ٭ ﹾ٭ ﹾ٭,حب حب,Positif,Positif
-37,You Nës,جازي صاي لا شبكة لا انترنت سيء سيء وميخدمش حزن تطبيق كع خسرت لا انفي لا تحويل ردونا وردو نشوفو فطوات بال راكم الا تزيدو تخسرو فمتعاملين خاص كسبوهم تربحو,Negatif,Negatif
+37,You Nës,جازي صاي لا شبكة لا انترنت سيء سيء وميخدمش ابليكاسيو كع خسرت لا انفي لا تحويل ردونا وردو نشوفو فطوات بال راكم الا تزيدو تخسرو فمتعاملين خاص كسبوهم تربحو,Negatif,Negatif
 38,Djøü Dã,شبكة راهو كارثة جازي,Negatif,Negatif
 38,Sara Talhi,ما راهيش تمشي عندي ما نقدرش لا نتصل لا يتصلو بيا يوجد,Negatif,Negatif
 38,ابو معاذ,رجعولي يرحم والديكم,Negatif,Negatif
@@ -874,7 +873,6 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 47,Blondi Nette,مراهش يوجد شبكة راها تجي تجي e,Negatif,Negatif
 48,باىع الزهور,السلام عليكم,Neutre,Neutre
 48,Sam Sam Ber,fort fort djezzy,Positif,Positif
-48,أحمد فيراس,فرح,Neutre,Neutre
 48,Lakhdar Abdelkrim,رمضان كريم جازي,Positif,Neutre
 48,Esper Enza,لم افهم لماذا سرق الفليكسي نحط رصيد منلقاش غضب غضب غضب,Negatif,Negatif
 48,Zaka Ria,djezzy راحلي العرض خاص جازي legend الشريحة تاعي خلاص ماعرفتش نردو تقدرو تعاونوني تفهموني نردو,Neutre,Neutre
@@ -961,13 +959,13 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 53,Titou Dadi Khouaidjia,لماذا الخدمة تتفعل تلقائيا تدي الرصيد حرام عليكم تعتبر سرقة منظمة,Negatif,Negatif
 53,Amâri kánari,موبيليس احسن شبكة,Positif,Positif
 54,Kikou Walid,عرض جيد شكرا موبيليس,Positif,Positif
-54,Mint Lamana,ديتوني لكوديفوار فرح فرح,Neutre,Neutre
+54,Mint Lamana,ديتوني لكوديفوار,Neutre,Neutre
 54,Abdo Mobile,شكرا موبيليس,Positif,Positif
 54,Lagreb Ahmed Abd Elkarim,رايحين,Neutre,Neutre
 54,Ãm Ar,مدونا شهر ولا شهرين مجانا mobilis,Neutre,Neutre
 54,Youcef Bourezak,بالتوفيق ان شاء الله,Positif,Positif
 54,عزالدين سالم كور,حب حب حب,Positif,Positif
-54,ۦۦٰ۪۫ۦٰ۪۫ۦٰ ۦۦٰ۪۫ۦٰ۪۫ۦٰ,طلقولي شبكة خفيف بجاه ربي بوسعادة راها تعاني شبكة موبيليس فرح,Negatif,Neutre
+54,ۦۦٰ۪۫ۦٰ۪۫ۦٰ ۦۦٰ۪۫ۦٰ۪۫ۦٰ,طلقولي شبكة خفيف بجاه ربي بوسعادة راها تعاني شبكة موبيليس,Negatif,Neutre
 54,مولات العقل,موبيليس ابعتولي نكمل بيهم الشهر,Neutre,Neutre
 55,Abo Adem,mobilis مربوحة ان شاء الله حب حب,Positif,Positif
 55,ابو غفران وعلاء الدين,ديرتا حل لضعف الشبكة والانترنيت ومبعد ساهلة,Negatif,Negatif
@@ -1027,7 +1025,7 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 58,Zøû Häîr,الف مبروك للجميع اسال الله دوم التوفيق والنجاح حب,Positif,Positif
 58,بن رابح فيفي,الله بارك,Positif,Positif
 59,للعمل حسابي,مشاء الله موبيليس الصدارة دمتم تالق,Positif,Positif
-59,جنة الرحمان جنة الرحمان,ما شاء الله حب فرح,Positif,Positif
+59,جنة الرحمان جنة الرحمان,ما شاء الله حب,Positif,Positif
 59,Zineb Zinep,bonne continuation,Positif,Positif
 59,رهف ادم مخاشف,حب حب حب حب حب,Positif,Positif
 59,محمد نور محمد,ربي بارك,Positif,Positif
@@ -1081,7 +1079,7 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 61,ذراع بن خدة حنا ولادها,اريد معلومات منفضلكم اريد نجيب شريحة سيم حتا يكلموني يكون الاتصال مجاني متوفرة او معلومات اكثر,Neutre,Neutre
 62,Bekkouch Khaled,شكرا للاولى وطنيا خدمة وعروضا طاقم mobilis بارك الله فيكم,Positif,Positif
 62,Youcef Bourezak,تحيه بالتوفيق ان شاء الله,Positif,Positif
-62,Zineb Zinep,بارك الله فيكم فرح,Positif,Positif
+62,Zineb Zinep,بارك الله فيكم,Positif,Positif
 62,Noureddine Beny,موبيليس رفيقكم الدائم فلاتترددو,Positif,Positif
 62,عبداللطيف عبد اللطيف,شكرا mobilis,Positif,Positif
 62,Ahcene Nourine,تحيتي موبيليس زيدنا عروض تكون صالح الزبائن والله تحي موبيليس,Positif,Positif
@@ -1198,7 +1196,7 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 69,أبو مصعب قداري,يمكن التبديل الى العرض win cont pro,Neutre,Neutre
 70,Rahik El Jana,موفقين باذن الله,Positif,Positif
 70,Zbisha Abderazak,حب حب حب حب حب حب حب,Positif,Positif
-70,محمد لمين,ما بيها موبليس فرح انترنت لا يوجد,Negatif,Negatif
+70,محمد لمين,ما بيها موبليس انترنت لا يوجد,Negatif,Negatif
 70,Mouhamed Amine,مزيد النجاح ان شاء الله,Positif,Positif
 70,Ray Ane,مريم يهديك ربي انترنت صراله,Negatif,Positif
 70,Chouaib Amiri,نعانون ضعف الشبكة سقانة,Negatif,Negatif
@@ -1212,12 +1210,12 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 70,Precious Jawel,بالتوفيق والنجاح,Positif,Positif
 70,Miyyada Lagg,الكونيكسيو حب,Negatif,Positif
 70,زيراري محمد الطيب,بالتوفيق ان شاء الله,Positif,Positif
-70,Chaïma Bkr,رجعولنا شبكة فرح,Positif,Negatif
-70,Isma Hane,شبكة حزن,Negatif,Negatif
+70,Chaïma Bkr,رجعولنا ريزو,Positif,Negatif
+70,Isma Hane,شبكة,Negatif,Neutre
 70,مالك بن احمد,المستقبل موبيليس تصنعه معنا شكرا عمال موبيليس,Positif,Positif
 70,Kachiche Ismail,طلقو علينا شبكة,Negatif,Negatif
 70,Ra Yane La,شبكة صرالو احمودة,Negatif,Neutre
-70,An Gel,ردونا شبكة فرح,Negatif,Negatif
+70,An Gel,ردونا شبكة,Negatif,Negatif
 70,سا رة,اطقونا لكونكسيو,Negatif,Negatif
 71,عبداللطيف عبد اللطيف,شكرا موبيليس,Positif,Positif
 71,سالم سليم,نحب نعيط بشريحة موبيليس يجب عليا نسمع رسالة صوتية تقولي يكون رصيدك الا اني ماكتفي الف خاص شهر اي حل لكي منزيدش نسمع الرسائل,Neutre,Negatif
@@ -1251,7 +1249,7 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 72,Zahra El Bahri,انا ما نستمعش الاذاعة موبيليس شكرا,Positif,Positif
 73,Samir Bougara,انقطاع شبكة موبيليس شريحة,Negatif,Negatif
 73,Nesrine Beriala,انترنت خاص شهر انتهاء ايام ولا اقل هكا راكو تاثروا مصداقية العروض نتاعكم نهار درتوا sama mix النت الا تروح ما يخلاص الشهر,Negatif,Negatif
-73,Adel Belazreg,رقمي موجود فشريحتين فنفس رقم احيانا يتصل واحيانا بشخص اخر فرح,Neutre,Neutre
+73,Adel Belazreg,رقمي موجود فشريحتين فنفس رقم احيانا يتصل واحيانا بشخص اخر,Neutre,Neutre
 73,Nouri Aljazairi,موبيليس رفيقكم الدائم موفقين فلا تترددو,Positif,Positif
 73,Güzel Çiçek,يمكنني ارجاع عرض سما الى عرض pixx,Neutre,Neutre
 73,Ahmed Ahmed,يصل الجيل الرابع لموبيليس الى دائرة سطارة ولاية جيجل ومازال,Neutre,Neutre
@@ -1482,7 +1480,7 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 84,Khireddine Kerrouche,سقمونا انترنت يرحم والديكم راهي ايام انتهاء ماتوصلش الشهر كامل مافهمتش اين انه الخلل,Negatif,Negatif
 84,Ahmed Salama,اين العروض الخاصة برمضان موبيليس,Neutre,Neutre
 84,ولاية الشلف ترحب بكم,مين تفكرونا بشهر مجانا احواج,Neutre,Neutre
-84,Jhon Jhon,thank you very much mobilis god bless فرح فرح حب,Positif,Positif
+84,Jhon Jhon,thank you very much mobilis god bless حب,Positif,Positif
 84,セブン ティーン,الرجاء الرد الخاص,Neutre,Neutre
 84,Mahy Med,dima انترنت ناقصة وحتى الهدرة مكاش,Negatif,Negatif
 84,مشاعر بريئة,اي عروض لشهر رمضان,Neutre,Neutre
@@ -1626,7 +1624,7 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 91,حكيم براهيمي,تستاهلو خير احسن متعامل النواحي,Positif,Positif
 91,Mēlïnå Melinda Ãbbäs,حسن حسن شكرا,Positif,Positif
 91,Sisin Lamry. Beauty,يوجد مسابقة,Neutre,Neutre
-91,Chå Hįnēż,بغيت نعرف فقط لماذا تعبئة شهر انتهاء الكونيكسيو يوم فرح,Negatif,Negatif
+91,Chå Hįnēż,بغيت نعرف فقط لماذا تعبئة شهر انتهاء الكونيكسيو يوم,Negatif,Negatif
 91,Okba Ainalbida,لوين اي حل ولا مزال,Neutre,Neutre
 91,Ahmed Boukhris,وصح لفطركم ربي يتقبل مناومنكم الصيام والثواب,Positif,Positif
 91,Khaled Abdalla,ما مدة العرض,Neutre,Neutre
@@ -1690,7 +1688,7 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 93,Dalila Journalist,رمضان كربم,Positif,Neutre
 93,Nacer Hocine Gasri,الله بارك حب,Positif,Positif
 94,Мунир Мунир,شهر رمضان شهر التوبة والغفران,Positif,Neutre
-94,Tariq Radi,تطبيقكم خاص mobispace راهو حابس اذا معابالكمش فرح,Negatif,Negatif
+94,Tariq Radi,تطبيقكم خاص mobispace راهو حابس اذا معابالكمش,Negatif,Negatif
 94,ᎰᎯᎿᎻᎨ ᏕᎷᎯᎨᏝ,لا يوجد لعروض,Negatif,Negatif
 94,Ghä Dïrë,اشترك sama,Neutre,Neutre
 94,AsSia Officinalis Epse Mahfoudi,حب,Positif,Positif
@@ -1893,11 +1891,11 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 103,Ali Omane,ربي يوفقكم,Positif,Positif
 103,ابو صهيب الرومي,شيء حسن نريدها الشراكة للتطور والكل مستفيد,Positif,Positif
 103,Mohamed El Hadi Djebabra,ردو الخاص,Negatif,Negatif
-103,Sãndy Bęllē,اوريدو بعثتلكم ميساج لماذا مش تردوا عليا حزن,Negatif,Negatif
+103,Sãndy Bęllē,اوريدو بعثتلكم ميساج لماذا مش تردوا عليا,Negatif,Neutre
 103,Amin Elkheir,بالتوفيق,Positif,Positif
 103,أمي قرة عيني,bonne courage,Positif,Positif
 103,أمي قرة عيني,bonne contunuation,Positif,Positif
-103,Rouabah Houcine,ooredoo algerie your services are excellent thank you فرح,Positif,Positif
+103,Rouabah Houcine,ooredoo algerie your services are excellent thank you,Positif,Positif
 103,Abdou Abarar,بالتوفيق,Positif,Positif
 103,Kastri Kastri,مسابقة اربح دار اخل اجل للمشاركة,Neutre,Neutre
 103,Ismail Allam,لاسويتش بصح انتهاء بلاما تستعملها,Neutre,Negatif
@@ -1938,7 +1936,7 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 105,Toufik Dries,bienvenue plus grand club algerie حب,Positif,Positif
 105,Hicham Sadikki,حب,Positif,Positif
 105,Latif A M Biānconeri,good luck,Positif,Positif
-105,Simo Salim,الافضل للافضل حزن,Positif,Positif
+105,Simo Salim,الافضل للافضل,Positif,Positif
 105,Talah Massoud,بكري نحبو اوريدو,Positif,Positif
 105,Râ Hïm,صحا اوريدو صحا,Positif,Neutre
 105,Mounir Mca,مرحبا بيكم,Neutre,Neutre
@@ -1948,7 +1946,7 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 105,نور يقين,اشكركم جزيل الشكر باتوفيق ونجاح عملكم,Positif,Positif
 105,Boualem Mouloudeen,مرحبا بيت العميد,Neutre,Neutre
 105,Rahal Aziz,الله بارك مشاء الله مزال الخير القدام,Positif,Positif
-105,Zakou Chevalley,افضل شريحة افضل فريق ربي يوفق فرح,Positif,Positif
+105,Zakou Chevalley,افضل شريحة افضل فريق ربي يوفق,Positif,Positif
 105,Aïcha Guechoud,tr satisfaite hamdouleh fid depuis toujours,Positif,Positif
 105,Pat Chino,حب,Positif,Positif
 105,قطوف دانية,ما شاء الله تبارك الرحمن,Positif,Positif
@@ -1967,7 +1965,7 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 106,Amar Grairi,سنة وانتم الافق,Positif,Positif
 106,سعودب بن صدوق,سنة معكم سنة وانتم يوم جديد وافاق مشرق الخدمات واستمرارية حل خدمات سنة وانتم بالف خير,Positif,Positif
 106,Jojo Joujou,ooredoo toujour fort fid a clients,Positif,Positif
-106,ンの人 コーラ,سنة وانتم بالف خير فرح,Positif,Positif
+106,ンの人 コーラ,سنة وانتم بالف خير,Positif,Positif
 106,Houria Messadi,عام وانتم بالف خير,Positif,Positif
 106,Kadar Dali,عام وانتم بالف الف خير,Positif,Positif
 106,Rahal Aziz,الله بارك ربي يوفقكم يزدكم نجاحكم اول شريحة كسبتها نجمة كانت ديدنها,Positif,Positif
@@ -2038,7 +2036,7 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 110,بلقاسم بن سعدي,مالا تفكروني بمفاجئة,Neutre,Neutre
 110,أبو أحمد,نجمة,Neutre,Neutre
 110,Mohamed Diab,كثرونا لكي نتفرجو كوب دافريك افعلو جاست ايا ايا,Neutre,Neutre
-110,Yanis Meziani,مضاعفة حجم انترنت فترة كاس افريقيا ستكون فكره رائعه ooredoo algerie فرح حب حب,Positif,Positif
+110,Yanis Meziani,مضاعفة حجم انترنت فترة كاس افريقيا ستكون فكره رائعه ooredoo algerie حب حب,Positif,Positif
 110,Zö Làa,rj olna reseau,Negatif,Negatif
 110,Ám Àr,اتمنى ان تكون المفاجاة رحلة الى كوت ديفوار طريق عمل مسابقة,Neutre,Neutre
 110,Ayoup Ayoub,شريحة حسن اوريدو ليعرف ينصحنا,Neutre,Positif
@@ -2049,7 +2047,7 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 110,Sad Hamiche,حب,Positif,Positif
 110,Àñ Îs,حب حب,Positif,Positif
 110,Âmine Sayad,عندي لاغولد جديدة تحولتلي لاغولد بليس كيفاه نعاود نرجعها,Neutre,Neutre
-110,نور يقين,فرح فرح حب,Positif,Positif
+110,نور يقين,حب,Positif,Positif
 110,Ťĥe Přëttÿ Qüëën,بالتوفيق,Positif,Positif
 110,Pat Chino,حب,Positif,Positif
 110,سأبق وحيدن وأبكي,الجزائر,Neutre,Neutre
@@ -2079,7 +2077,7 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 111,Basmat Amel,تم,Neutre,Neutre
 111,Moncef Ghadouche,اريد ان اربح,Neutre,Neutre
 112,Tahar Hamraoui,genial,Positif,Positif
-112,Lé Føõt Bãllęūr,ردولي لعشرالاف ديتوهالي فرح فرح,Negatif,Negatif
+112,Lé Føõt Bãllęūr,ردولي لعشرالاف ديتوهالي,Negatif,Negatif
 112,Потерянный Ангел,merci ooredoo existence si pouvez juste faire nouvelles offres mensuels peu moins cher si non etes meilleurs,Positif,Positif
 112,دحمان رحمون,ربي يهديكم ردو علينا المسنجر,Negatif,Negatif
 112,Tīpø Xø,لم افهم,Neutre,Neutre
@@ -2201,7 +2199,7 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 120,محمد بولزازن,الف مبروك,Positif,Positif
 120,Djamila Sf,مبروك,Positif,Positif
 120,Med Hadjir,مبروك,Positif,Positif
-121,Pat Chino,جيد فرح,Positif,Positif
+121,Pat Chino,جيد,Positif,Positif
 121,Abdelhamid Mosbah,dream,Neutre,Positif
 121,بلال بوخاتم,بسرعة منخفصة خدمة سيئة,Negatif,Negatif
 121,Mesbahi Mamar,انترنت الا محدودة,Neutre,Negatif
@@ -2224,7 +2222,7 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 121,يو سف,عرض شباب,Positif,Positif
 121,عبد الرحمن,اوريدو جاوبو الخاص,Neutre,Negatif
 121,Hôu Šsàm,شبكة لا يوجد الدار نرفد الميكرو نخرج نكونيكتي السطح,Negatif,Negatif
-121,Alaa Amir,ياي اصلاح رواحكم واخطيكم السرقة مانفليكسي يجب سرق ماتحشموش نتوما حزن حزن حزن,Negatif,Negatif
+121,Alaa Amir,ياي اصلاح رواحكم واخطيكم السرقة مانفليكسي يجب سرق ماتحشموش نتوما,Negatif,Negatif
 121,ناصر أحمد,اشرو باترياات ملاح للعرص خاص الريزو وممبعد اهدرو العروض اشارة ضعيفة جدا البلديات اغلب ولايات الوطن,Negatif,Negatif
 122,Meriem Hamadache,فازت الجزائر باول كاس امم افريقيا عام وفازت المرة الثانية عام مصر,Neutre,Neutre
 122,Sïl Yā,مبروك,Positif,Positif
@@ -2330,7 +2328,7 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 125,Paris Rêlxç,سيء,Negatif,Negatif
 125,Yass Er,يرجى الضغط الرابط لربح انترنت صالحة لمدة ايام ولاصدقائك خاوتي ادخلو,Neutre,Neutre
 125,اية الرحمان,لا تدخل عندي بصح,Negatif,Negatif
-126,Łâcö ßärï,فليكسو سبيل الله اريدو فرح,Neutre,Neutre
+126,Łâcö ßärï,فليكسو سبيل الله اريدو,Neutre,Neutre
 126,Sidali Sido Difaoui,connexion grv ila ooredoo algerie normal meme mg,Negatif,Negatif
 126,Malak Malam,والله توقف ال انتاع الليل,Negatif,Negatif
 126,Imad Boualam Allah,يمكن الرد الخاص,Neutre,Neutre
@@ -2355,7 +2353,6 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 127,Bachir Bachir,sim puis besoin telephone gratuit,Neutre,Neutre
 128,ام اولادي,تم,Neutre,Neutre
 128,Lilà Mahboulista,مبروك,Positif,Positif
-128,Ahmed Ghebrour,فرح فرح فرح,Neutre,Neutre
 128,Amar Tarmlit,ok,Neutre,Positif
 128,Yassin Ahmed Riyal,حلم,Neutre,Neutre
 128,Kader Kader,bravo,Positif,Positif
@@ -2595,7 +2592,7 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 138,Ali Abou Omar,شارجيت واكتيفيتها لكن ماقدرتش نهدر عيطتلكم قالولي يوجد خطا تقني اليوم مال خاص الصباح ما صلحتوش الخطا,Negatif,Negatif
 138,Khenfer Brahim,او عندها يومين الشبكة عاطله,Negatif,Negatif
 138,Ilyes Papillon,الله بارك شيء حسن دائما صدارة مزيد تالق ونجاح حب,Positif,Positif
-138,Douaa Goudjil,ردو عليا بريفي غادي نهبل فرح,Negatif,Negatif
+138,Douaa Goudjil,ردو عليا بريفي غادي نهبل,Negatif,Negatif
 138,Jamel Oviç,خاصية اختيار الرقم,Neutre,Neutre
 138,Reda Boussadia,اوريدو ادخال للعالميا,Neutre,Neutre
 138,فرح ومرح,عندي مشكلة راسلتكم لكن لم اتلقى الجواب,Negatif,Negatif
@@ -2665,7 +2662,7 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 141,Massil Mez,مابغاتش تمشيلي ممكن حل,Negatif,Negatif
 141,ام محمد منصف,ما شاء الله,Positif,Positif
 141,Fatmi Yassine,عندي مشكل تطبيق ارويدو محبش يخدم,Negatif,Negatif
-141,Samir Sam,merci فرح فرح,Positif,Positif
+141,Samir Sam,merci,Positif,Positif
 141,Redouane Slimani,جربتو بارك الله فيكم,Positif,Positif
 141,Moussa Zeggar,ما شاء الله ربي بارك وزيد,Positif,Positif
 141,Hassan Athmani,ما شاء الله,Positif,Positif
@@ -2779,7 +2776,7 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 146,Omar Omar,نرجى منكم الرد الخاص,Neutre,Neutre
 146,عبد الله عبد الله,الرد الخاص,Neutre,Neutre
 146,Hussain HS,ooredoo algerie لقد راسلتكم الخاص,Neutre,Neutre
-146,Ilyes Papillon,anazik حب فرح,Positif,Positif
+146,Ilyes Papillon,anazik حب,Positif,Positif
 146,Ayoubo del Rio,انا فهاذ الوقت بالدات لا يوجد انترنت,Negatif,Negatif
 146,Ilyes Papillon,حب حب حب حب حب,Positif,Positif
 146,Nacera Boubegar,ooredoo oua oulo,Neutre,Neutre
@@ -2843,7 +2840,7 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 149,نجمة في السما,حب حب,Positif,Positif
 149,Ahmed Zx,نعم اوريدو شبكة جيدا لكان ديرونا هديا رمضان شهر انترنت مجانا يكونا اقبل كبير شريحة اوريدو وشكرا,Positif,Positif
 149,Tìtò Tìtò,حب,Positif,Positif
-149,ᎥᎷᎯᏁᎬ ᏚᏦ,اصلاح لكونيكسو فقط كثيرا فينا فرح,Negatif,Negatif
+149,ᎥᎷᎯᏁᎬ ᏚᏦ,اصلاح لكونيكسو فقط كثيرا فينا,Negatif,Negatif
 149,فاطمة الزهراء بلقاسمي,حب حب حب حب حب,Positif,Positif
 149,Nina Nihel,حب حب حب حب حب حب حب حب,Positif,Positif
 149,Compte Pour le Travail,بيه شبكة خاص مودام اوريدو خوتي ولا الا عندي انا,Negatif,Negatif
@@ -2933,7 +2930,7 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 153,Mohamaḍ Aminè,عندي مشكل ممكن حل,Negatif,Negatif
 153,Lİle Yasemin,اللهم ارزقنا الفوز ان شاء الله رب العالمين,Positif,Positif
 153,Bachir Rh,احتاج مساعدة,Neutre,Neutre
-153,Yacıne M. Mazız,introuvable sauf gagne فرح فرح فرح,Neutre,Positif
+153,Yacıne M. Mazız,introuvable sauf gagne,Neutre,Positif
 153,تركي تركي,شكرا حب,Positif,Positif
 153,Amar Haouche,شكرا,Positif,Positif
 153,Samira Faradi,تم غلق شريحتي الحل,Neutre,Neutre
@@ -2955,7 +2952,7 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 154,Souaed Souaed,كيفاه,Neutre,Neutre
 154,Chamss D'alger,ربي يرزقنا الخير,Positif,Positif
 154,Azze Sus,ooredoo تزيدو تنقصو شويه فقط,Neutre,Neutre
-154,Younes Mahsas,اين انترنت حزن حزن حزن,Negatif,Negatif
+154,Younes Mahsas,اين انترنت,Negatif,Neutre
 154,مهدي حسام الدين,عاشت اوريدو,Positif,Positif
 154,Mehdi Messaoud,بالتوفيق اوريدو,Positif,Positif
 154,Ilyes Papillon,حب حب حب,Positif,Positif
@@ -2984,7 +2981,7 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 155,Med Hadjir,للمشاركة dari quiz,Neutre,Neutre
 155,Zine Eddine Hamzaoui,gold,Neutre,Neutre
 155,Khaled Khaled,سويتش روعة,Positif,Positif
-155,Потерянный Ангел,youtube illimite my favorite فرح حب حب حب,Positif,Positif
+155,Потерянный Ангел,youtube illimite my favorite حب حب حب,Positif,Positif
 155,Zāiňěb Ahměd,gold,Neutre,Neutre
 155,Brahim Cha,شريحتين dima plus,Neutre,Neutre
 155,Tarek Boussalem,dima عرض ما شاء الله,Positif,Positif
@@ -3039,7 +3036,7 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 158,ام محمد منصف,موفقين رب العالمين,Positif,Positif
 158,ام محمد منصف,اللهم ارزقنا زيادة بيتك الحرام ولكل مشتاق رب العالمين,Positif,Positif
 158,Habibek Kamel,ان شاء الله ما زال راحش ربي يوفقه لكي يذهب ان شاء الله,Positif,Positif
-158,Abdel ilah Adl,بالتوفيق ان شاء الله حب فرح,Positif,Positif
+158,Abdel ilah Adl,بالتوفيق ان شاء الله حب,Positif,Positif
 158,Ilyes Papillon,حب حب حب حب حب,Positif,Positif
 158,Ilyes Papillon,حب حب حب حب,Positif,Positif
 158,سيرين تيزيرين,بالتوفيق,Positif,Positif
@@ -3108,7 +3105,7 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 161,Jumelle De Sirine,حب,Positif,Positif
 161,Sï Näz,حب حب,Positif,Positif
 161,Noureddine Beny,الف مبروك للفائزين والعقوبة للبقية,Positif,Positif
-161,Håy Dër,رجعولنا الكادو خاص يوم حزن حزن,Neutre,Negatif
+161,Håy Dër,رجعولنا الكادو خاص يوم,Neutre,Negatif
 161,Noé Noé,مبروك حب,Positif,Positif
 161,Malik Alger,لعقوبة ليا,Positif,Neutre
 161,Samira Benzaoui,الف مبروك,Positif,Positif
@@ -3176,7 +3173,7 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 163,Mohamed Mohamed,مين نزل تطبيق my ooredoo الرقم ليس مسجل,Neutre,Neutre
 163,Karim Kassel,الله بارك,Positif,Positif
 163,Yøu Yøu,جميل,Positif,Positif
-163,Nour Lakehal,رد عليا فرح,Neutre,Neutre
+163,Nour Lakehal,رد عليا,Neutre,Neutre
 164,ام محمد منصف,اللهم بعدد حبات المطر وبعدد سجد وشكر ارزق مؤمن فرحة يسجد باكيا ورزق لا ينقطع,Positif,Positif
 164,Oum Yasmine,ooredoo coeur,Positif,Positif
 164,Koléa Koléa,حب,Positif,Positif
@@ -3212,7 +3209,7 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 165,Bouchra Benou,اين نلقاى الكود,Neutre,Neutre
 165,Kanimana Mami,aujourd hui quoi,Neutre,Neutre
 165,اودي عبدو برک,اين يلعب,Neutre,Neutre
-165,عبدالقادر شوال,عندما ينتهي الوقت يضعون الرمز فرح,Neutre,Neutre
+165,عبدالقادر شوال,عندما ينتهي الوقت يضعون الرمز,Neutre,Neutre
 165,Ilyes Papillon,رمز راني عارفو حب,Neutre,Positif
 165,Mohamed Mohamed,ناس تحوس الرمز انا نحوس اين نحط الرمز,Neutre,Neutre
 165,Iyéd Mohamed,ami naa,Neutre,Neutre
@@ -3467,7 +3464,7 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 176,Fe Ri Al AL,جيهة عاصمة,Neutre,Neutre
 176,Simou Simou,حب حب,Positif,Positif
 176,Fe Ri Al AL,اين الموقع,Neutre,Neutre
-176,ภเ ภค,ربي باركلكم ويزيدكم حب فرح,Positif,Positif
+176,ภเ ภค,ربي باركلكم ويزيدكم حب,Positif,Positif
 176,Smiley Tipaza,ooredoo numero one,Positif,Positif
 177,اية الرحمان,بارك الله فيكم,Positif,Positif
 177,Plume Plume,بارك الله فيكم,Positif,Positif
