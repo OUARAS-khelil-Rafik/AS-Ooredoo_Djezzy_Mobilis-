@@ -89,6 +89,7 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 4,Naouel Messaoui,assegas amervouh inch allah,Positif,Positif
 4,Cheddad Kada,assegas amegas,Positif,Positif
 4,Nãïmø Bëdjîh,assegas amegas a djezzy,Positif,Positif
+4,Ben Yac,𝗔𝗦𝗦𝗘𝗚𝗔𝗦 𝗔𝗠𝗘𝗚𝗚𝗔𝗭,Positif,Neutre
 4,Djaat Nadir,نتوما ماديروش مسابقة,Neutre,Neutre
 4,Zidane Djebbari,assegas ameggaz,Positif,Positif
 4,Kamel Fraouti,اسقاس امقاز,Positif,Positif
@@ -162,7 +163,7 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 6,ßa Lim,سراقة سرق فدراهم,Negatif,Negatif
 6,Islame Gh,افشل شبكة,Negatif,Negatif
 6,أيوب منتصر,شبكة اجيزي شبكة سقموهلنا الرحمة الوالدين نفليكسو مرانا نديرو بيها لا يوجد اصلاح روحكم فريزو والعرض ساهلين ساع وشكرا,Negatif,Negatif
-6,Youcef Ait Belkacem,veuillez regler couverture reseau apr faites offre voulez er a prendre,Negatif,Negatif
+6,Youcef Ait Belkacem,veuillez regler couverture reseau après faites offre voulez er a prendre,Negatif,Negatif
 6,صلاح الدين,انا ومتخلصش كارثة انترنت المشكل ماش كمية انترنت المشكل سرعة تدفق انترنت,Negatif,Negatif
 6,قاسم بن محي الدين,غالي,Negatif,Negatif
 6,حمزة فريد,عروض مغرية ولكن للاسف التغطية لا توجد,Negatif,Negatif
@@ -269,7 +270,7 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 10,Amel Nina,شبكة انترنت ماكانش نظن نفليكسو بدراهمنا ماراناش نطلبو عليكم,Negatif,Negatif
 10,Amel Nina,شبكة انترنت ماكانش نظن نفليكسو بدراهمنا ماراناش نطلبو عليكم,Negatif,Negatif
 10,Abdelouahed Chachoua,تعبئة,Neutre,Neutre
-10,Comptabilité et analyse financière,travaux comptabilite analyse financi re comptabilite analyse financi re,Neutre,Neutre
+10,Comptabilité et analyse financière,travaux comptabilite analyse financière comptabilite analyse financière,Neutre,Neutre
 10,RB FOOT,اخبار الرياضة الجزائرية تجدونها,Neutre,Neutre
 10,Kayo Chenchedy,قول قول,Neutre,Neutre
 11,Kilouna Khtouna,اشهر يعني الشهر قليلة كثيرا,Negatif,Negatif
@@ -286,12 +287,12 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 11,مستغفرين تائبين,ياولدي فريق غلبان وانتم قلقالين,Neutre,Neutre
 11,Rafik Raffaoui,mochkil tchdlk mois,Neutre,Neutre
 11,Yougourta Youba,شبكة ضعيفة انترنت ضعيفة,Negatif,Negatif
-11,وحيدة ابي,num ro service,Neutre,Neutre
+11,وحيدة ابي,numéro service,Neutre,Neutre
 11,Benaziza Mouad,مزال منتج متوفر,Neutre,Neutre
 11,Yassine Tranquilo,عرض تافه يعطوك لجيغا ما يلحقش الشهر الاول يخلاصو,Negatif,Negatif
 11,Faress Oran,سلام عليكم جازي احترامي ولكن الشبكة كميل بوهران كارثية بمعنى الكلمة نعاني ضعف الشبكة ونقص الانترنت لدرجة معدومة المهم لاي يريد شراء شريحة جازي تفكير مرة شرائها,Negatif,Negatif
 11,Sou L King,انا عندي مشكلا كنفليكسي يدولي دراهم اريد نتاكد الاشتراكات اراهم يدولي فدراهم,Negatif,Negatif
-11,Comptabilité et analyse financière,travaux comptabilite analyse financi re comptabilite analyse financi re,Neutre,Neutre
+11,Comptabilité et analyse financière,travaux comptabilite analyse financière comptabilite analyse financière,Neutre,Neutre
 11,غانم غانم,السلام عليكم جازي ما نوع المودام كبير صغير بطارية,Neutre,Neutre
 11,Abdel Rahim Gouasmi,نقدر نركب شريحة عادية مودام,Neutre,Neutre
 11,Ahmed Rami,ممكن استفسار,Neutre,Neutre
@@ -478,7 +479,7 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 19,فلسطين القضية,خاوتي كلنا بشعار مايشري شريحة يفتحونا تبديل,Negatif,Negatif
 19,Imè Ne,بمجرد تحميل التطبيق djezzy يتفعل تلقائيا walk for البسمة,Neutre,Neutre
 19,Nadjet Lag Nadjet,وعلاه حبستولي شريحة غضب غضب غضب غضب,Negatif,Negatif
-19,Čhãf Tõud,a quelque jour connexion instable a tigzirt meme veiller regler probl,Negatif,Negatif
+19,Čhãf Tõud,a quelque jour connexion instable a tigzirt meme veiller regler problème,Negatif,Negatif
 19,Djill Djalal,انتم اصلاح شبكة نتاعكم وحنا نعرفو نتبرعو,Negatif,Negatif
 19,سارا سارا,سلام عليكم خصني قفة رمضان الله يحفظكم اختي زوجها معوق ومايخدمش وعندها تلات ولاد الي يعرف اي جمعية يقولها برحمة الوالدين,Neutre,Neutre
 19,A. く文,رجعولي تاعي,Negatif,Negatif
@@ -519,7 +520,7 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 21,Mamat Lina Yeusef,بصح خاص دعوات تتسرق خطرات متعطولناش انترنت,Negatif,Negatif
 21,فوزي فوزي,المشكل خاص جيزى تستهلك الانترنات بالزاف بالخف,Negatif,Negatif
 21,Lu Na,لماذا لا يوجد انترنت جازي,Negatif,Negatif
-21,Amirouche Louaidi,probl connexion residence andalous tixeraine,Negatif,Neutre
+21,Amirouche Louaidi,problème connexion residence andalous tixeraine,Negatif,Neutre
 21,Asma Boussayoud,chkoun rahtlo connexion f djezzy,Negatif,Negatif
 21,Nacer Bekkai,فشل تحويل النقاط تخرجلي مشكلة,Negatif,Negatif
 21,Habi Ba,وحنا يرسملنا البسمة,Neutre,Neutre
@@ -530,7 +531,7 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 21,Oum Akram E Tasnim,شبكة فالجيزي كارثة اهلي ام البواقي عندهم ريز كارثة,Negatif,Negatif
 21,Schahra Zed Macrame,دايمن سرق حسبي الله ونعم الوكيل فيكم ماشي هدية المرة الاولى كانو عندي سرق حرام عليكم انا ذوي الاحتياجات الخاصة ياعاجابا المعوقين مارحمتوهومش,Negatif,Negatif
 21,Mohammed Abbou,راحتلي يومين نعلو شيطان جازي خوتي قعدو ناس ملاح,Negatif,Negatif
-21,Rachid Tlemcen,r gle شبكة خاص ولا قسما الله نجيبلكم puces kom كرهتونا,Negatif,Negatif
+21,Rachid Tlemcen,règle شبكة خاص ولا قسما الله نجيبلكم puces kom كرهتونا,Negatif,Negatif
 21,Adel Bellili,نتمنى منكم تصليح شبكة تاعكم اقرب وقت,Negatif,Negatif
 21,محمد ايمن,سمانة نمشي,Negatif,Negatif
 21,Aÿmãñ Pårïsïęń,جازي حابين يربحو ذراع,Negatif,Negatif
@@ -843,7 +844,7 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 44,Discovry LE Monde,التغطية لا يوجد والله الا عيب,Negatif,Negatif
 44,Aymen YT,شبكة نتاعم ماسي كيما هوما شبكة ناقص خلاص,Negatif,Negatif
 44,Karim Madrid,ولاية مسيلة شبكة جازي ناقص كثيرا,Negatif,Negatif
-44,Hamza Andaloussi,valable mois apr recharge meme offre combien,Neutre,Neutre
+44,Hamza Andaloussi,valable mois après recharge meme offre combien,Neutre,Neutre
 44,عمر محمد بوباكورة,اسوء تغطية الجزائر,Negatif,Negatif
 44,Tarek Kan,جيزي لاجند اسوء انترنات غضب غضب غضب,Negatif,Negatif
 44,Amine Rossoneri,تغطية ماكانش راني معاهم اكثر سنة والله عييت شبكة,Negatif,Negatif
@@ -915,7 +916,7 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 51,دردوري جمال الدين,يمكن تحويل شريحة توانتي الى سما,Neutre,Neutre
 51,مُحِي الدين مرزقان,شبكة بلدية ببوش ولاية ام البواقي لا وجود,Negatif,Negatif
 51,Hakou Yadel,فائدة العروض الشبكة ضعيفة,Negatif,Negatif
-51,Yasine Raouf,reseau tr faible,Negatif,Negatif
+51,Yasine Raouf,reseau très faible,Negatif,Negatif
 51,Rachid Ben Oussaid,ممكن التحويل sama الى twenty,Neutre,Neutre
 51,Fethi Mohand,ثمن الشريحة لو سمحت,Neutre,Neutre
 51,Pincha Bilel Benseghir,شبكة ضعيف جدا,Negatif,Negatif
@@ -1267,7 +1268,7 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 73,Amina Ben,انترنت تروح بلخف المصداقية مانبا سيمانة تروح,Negatif,Negatif
 73,Ri Na,انترنت راكم تسرقوها قراف الواحد دقيقة تنحولو ولي فيديو ومنشوفهمش نخدم الا فيس بوك نشوف تصاور فقط,Negatif,Negatif
 73,Oussama Marabou,تقدمت بشكوى ضعف تدفق الانترنت وانعدام شبكة الجيل نيابة المستخدمين لمنطقة سيدي صالح بلدية سنجاس ولاية شلف يوم اكتوبر وشكوى اخرى يوم ولا يوجد اي رد اليوم ولذا قررنا انا وجميع المستخدمين استبدال شرائحنا بشرائح شركات اتصالات اخرى لسوء تدفق الانترت تجاهل الشكوى قدمناها,Negatif,Negatif
-73,Yakout Ahmar,ديزاكتيفي demande souscription service mobilistore a ete effectuee succ nom utilisateur mot passe,Neutre,Neutre
+73,Yakout Ahmar,ديزاكتيفي demande souscription service mobilistore a ete effectuee succès nom utilisateur mot passe,Neutre,Neutre
 73,عبدالرحمان تاج الدين,تفعيل انترنت,Neutre,Neutre
 73,Boucher In,كيفية عمل لانترنات مجانية,Neutre,Neutre
 73,Brahime Slimane,كيفية تحويل الرصيد الى انترنت,Neutre,Neutre
@@ -1297,7 +1298,7 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 74,Imane Regency,plais adresse email deposer cv,Neutre,Neutre
 74,Amin Amino,عندي مشكل,Negatif,Negatif
 74,ابتسمك كرامتك,تم تم تم تم تم تم,Neutre,Neutre
-74,Kamal Hamoum,يتم تحويل contr twin خاص,Neutre,Neutre
+74,Kamal Hamoum,يتم تحويل contrôle twin خاص,Neutre,Neutre
 75,Precious Jawel,شكرا المجهود الرائع الخدمة,Positif,Positif
 75,Zakaria RM,خدمة ما شاء الله,Positif,Positif
 75,Youcef Bourezak,تحيه بالتوفيق ان شاء الله,Positif,Positif
@@ -1516,7 +1517,7 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 86,Nadjib Madrid,نسنو الميقراسيون,Neutre,Neutre
 86,نقيش عبد الحليم,بصح افعلو خاص الف غالية القلاليل,Negatif,Negatif
 86,Akli IH,لماذا عرض ساما انترنت تنفذ رمشة,Neutre,Neutre
-86,Mohammed Santouh,sama contr,Neutre,Neutre
+86,Mohammed Santouh,sama contrôle,Neutre,Neutre
 86,Hamza Mekki,منيش نقدر نتصل شبكة موبيليس لماذا خويا,Negatif,Negatif
 86,Biloû Mc,عندي لاوين ليبر نقدر نقلبها توانتي,Neutre,Neutre
 86,Youcef Mebarki,لماذا نبعث لكي نشوف الصولد ما يجيني ميساج نعيطلكم ما تريبوندوش,Negatif,Neutre
@@ -1883,11 +1884,11 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 103,مصمم مسابقات,اتمنى اوريدو عندما يكون مسحل قيل يقدر يسجل مرة اخرى انتم زعماء جزائر شكرا,Positif,Positif
 103,Zakaria Zaki,مزيد التالق ان شاء الله,Positif,Positif
 103,Jojo Joujou,dieu benisse,Positif,Positif
-103,Khadji Feddy,bonne continuation beaucoup progr,Positif,Positif
+103,Khadji Feddy,bonne continuation beaucoup progrès,Positif,Positif
 103,ام محمد,الله بارك,Positif,Positif
-103,Nasreddine Aoued,beaucoup succ,Positif,Neutre
+103,Nasreddine Aoued,beaucoup succès,Positif,Neutre
 103,Karime Achachera,اوريدو احسن شبكة بالتوفيق ان شاء الله,Positif,Positif
-103,Kader Kader,beaucoup succ inchallah,Positif,Positif
+103,Kader Kader,beaucoup succès inchallah,Positif,Positif
 103,Ali Omane,ربي يوفقكم,Positif,Positif
 103,ابو صهيب الرومي,شيء حسن نريدها الشراكة للتطور والكل مستفيد,Positif,Positif
 103,Mohamed El Hadi Djebabra,ردو الخاص,Negatif,Negatif
@@ -1912,7 +1913,7 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 104,Amar Bouzid,مشاء لله,Positif,Positif
 104,Réda Khaldi,فضلك رمز لمعرفة الرقم الاخير فليكسيتلو,Neutre,Neutre
 104,ولد توات ولد توات,ما شاء الله,Positif,Positif
-104,Потерянный Ангел,plait oblige acheter nouveau numero beneficier offre switch peux faire numero actuel haya pref re garder numero,Neutre,Neutre
+104,Потерянный Ангел,plait oblige acheter nouveau numero beneficier offre switch peux faire numero actuel haya prefère garder numero,Neutre,Neutre
 104,Ahm ED,دايما تطلعاتنا,Neutre,Neutre
 104,ما اجمل الحلال,ان عندي حسن ومعرفتش ندخلو يقلي,Neutre,Positif
 104,Mohamed Boussebha,شبكة نتاعكم ماعادش يصلح الى اللقاء,Negatif,Negatif
@@ -1947,7 +1948,7 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 105,Boualem Mouloudeen,مرحبا بيت العميد,Neutre,Neutre
 105,Rahal Aziz,الله بارك مشاء الله مزال الخير القدام,Positif,Positif
 105,Zakou Chevalley,افضل شريحة افضل فريق ربي يوفق,Positif,Positif
-105,Aïcha Guechoud,tr satisfaite hamdouleh fid depuis toujours,Positif,Positif
+105,Aïcha Guechoud,très satisfaite hamdouleh fidèle depuis toujours,Positif,Positif
 105,Pat Chino,حب,Positif,Positif
 105,قطوف دانية,ما شاء الله تبارك الرحمن,Positif,Positif
 106,Meziane Hamani,ooredoo amis حب hmabz,Positif,Positif
@@ -1964,7 +1965,7 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 106,ماريا ماريا,بالتوفيق,Positif,Positif
 106,Amar Grairi,سنة وانتم الافق,Positif,Positif
 106,سعودب بن صدوق,سنة معكم سنة وانتم يوم جديد وافاق مشرق الخدمات واستمرارية حل خدمات سنة وانتم بالف خير,Positif,Positif
-106,Jojo Joujou,ooredoo toujour fort fid a clients,Positif,Positif
+106,Jojo Joujou,ooredoo toujour fort fidèle a clients,Positif,Positif
 106,ンの人 コーラ,سنة وانتم بالف خير,Positif,Positif
 106,Houria Messadi,عام وانتم بالف خير,Positif,Positif
 106,Kadar Dali,عام وانتم بالف الف خير,Positif,Positif
@@ -2170,11 +2171,11 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 119,Hakim Ramdane,الليامات شبكة ديقا مالكم,Negatif,Neutre
 119,صۣۗہمۣۗہتۣۗہيۣۗہ كۣۗہبۣۗہريۣۗہآئيۣۗہ,لا توجد شبكة ولا انترنت يومين خدماتكم السيء للاسوء,Negatif,Neutre
 119,Bilal Bahrii Ka,راني راستلكم لحد الان لا يوجد الرد,Neutre,Negatif
-119,Jojo Joujou,merci ooredoo geste fr res palestiniens dieu prot ge,Negatif,Positif
+119,Jojo Joujou,merci ooredoo geste frères palestiniens dieu protège,Negatif,Positif
 119,Chaali Aouad-شالي عواد,اوريدو تحشد العقلاء تقدم خدمات الانسانية الحمد لله اني اخترت اوريدو حب حب,Positif,Positif
 119,Walid Grazzà,انترنت تعيف,Negatif,Neutre
 119,Boualam Bousaha,شبكة ناقس,Negatif,Neutre
-119,Hamzinho Leulmi,bonjour jai numerode telephone a nom cest p re utilisait depuis plus ans vient perdre carte sim a etranger moyen quil recup re carte sim svp,Neutre,Neutre
+119,Hamzinho Leulmi,bonjour jai numerode telephone a nom cest père utilisait depuis plus ans vient perdre carte sim a etranger moyen quil recupère carte sim svp,Neutre,Neutre
 120,ام اولادي,مبروك,Positif,Positif
 120,Lakhdar Özza,ان شاء الله,Positif,Positif
 120,Íßlàm Íßlàm,الف الف مبروك ونشاله ليشارك تاني يربح حب حب,Positif,Positif
@@ -2417,7 +2418,7 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 130,Abdel Ali,حسن,Positif,Positif
 130,منى مي مي,حسن حب,Positif,Positif
 130,Grîòūï Äbd Ęlwàhhåb,جميل حب,Positif,Positif
-130,Bouzidi Loucif,connexion reellement illimitee o a quand meme plafond a depasser meme si grand exemple aimerais bien savoir,Neutre,Positif
+130,Bouzidi Loucif,connexion reellement illimitee où a quand meme plafond a depasser meme si grand exemple aimerais bien savoir,Neutre,Positif
 130,Ssimou Rrofie,تفليكسيلها شهر,Neutre,Neutre
 130,Moncef Ghadouche,تبقى وان سافرت ما تفضش حب تبقى معايا ولو الخارج اوريدو,Positif,Positif
 130,Milano céram خزف خزرونة,اوريدو ولات ثقيلة كثيرا عندي سويتش تحسب عندي شريحة ماشي,Negatif,Negatif
@@ -2480,7 +2481,7 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 133,Djilo Belouzdad,سلام جاوبنا الخاص,Neutre,Neutre
 133,Plateau Miroir,شكرا شركة اوريدو,Positif,Positif
 133,Ah Med,خصني عرض يكون شباب,Neutre,Positif
-133,Menouer Bachir,tr belle حب dima,Positif,Positif
+133,Menouer Bachir,très belle حب dima,Positif,Positif
 133,Choki Bn,التغطية عندي ثقيلة كثيرا اوريدو,Negatif,Negatif
 133,Pat Chino,رائع,Positif,Positif
 133,Ya Zid,comment activer dima,Neutre,Neutre
@@ -2531,7 +2532,7 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 135,Hicham Sahraoui,regler reseau telephonique apres facile,Negatif,Negatif
 135,Salma Salma,مم فضلكم فورفي خاص قلتوا انه انترنت يوتيوب مكالمات مجانية ام لا,Neutre,Neutre
 135,Nebira Nebira,حابة تعبئة الف مكالمات فقط افعل منسحقش انترنت,Neutre,Neutre
-135,Salah Belkhir,comment revenir a offre precedent apr migration vers dima,Neutre,Neutre
+135,Salah Belkhir,comment revenir a offre precedent après migration vers dima,Neutre,Neutre
 135,Yazid Oubibete,عندي شريحة عندها سنة بغيت نرجعها لا switch كيفاه الحل او الكود وشكر,Neutre,Neutre
 135,Tgpro Tg Tgpro,اريد نزع عروض تطبيق وز,Neutre,Negatif
 135,Kader Kh,قداه فاها انترنت,Neutre,Neutre
@@ -2971,7 +2972,7 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 155,Chaali Aouad,خاصني عرض خاص او اكثر شريحتي,Neutre,Neutre
 155,Sabir Ouartez,yooz,Neutre,Neutre
 155,محمد محمد الشافعي,اي عرووض لرمضان,Neutre,Neutre
-155,Salim L'heureux,gold internet vers tous appels illimites vers ooredoo client fid depuis plusieurs puces ooredoo meilleur operateur algerie toujours songer a amelioration continue a i x promotions accessibles abordables tous merci,Positif,Positif
+155,Salim L'heureux,gold internet vers tous appels illimites vers ooredoo client fidèle depuis plusieurs puces ooredoo meilleur operateur algerie toujours songer a amelioration continue a i x promotions accessibles abordables tous merci,Positif,Positif
 155,Karim Melina,حب حب حب,Positif,Positif
 155,AB Mourad,gold illimite ooredoo vers reseaux nationaux validite jours,Neutre,Neutre
 155,Møuňir ßàziňe,عمري ندم حياتي ندم yooz خدعة العمر,Negatif,Negatif
@@ -2999,7 +3000,7 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 156,ISh AK,ممكن تحاولو تحسنو تدفق الانترنيت,Negatif,Negatif
 156,Abdeslam Hadef,الف الف شكرا احسنت شريحه الجزائر,Positif,Positif
 156,David Jalile,افضل متعامل الصدق المصداقية سنة لا تنسى ولحظات مليئة بالانجازات الرائعة حب,Positif,Positif
-156,أم أميمة,cliente fid merci a ooredoo,Positif,Positif
+156,أم أميمة,cliente fidèle merci a ooredoo,Positif,Positif
 156,Wolf Sirta,اي عرض yooz لشهر رمضان,Neutre,Neutre
 156,Abdeslam Hadef,شكرا,Positif,Positif
 156,R'h Kociela,شكرا اورديو حب,Positif,Positif
@@ -3015,7 +3016,7 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 156,Jalilou Sifou,مبروك,Positif,Positif
 156,Oum Yasmine,افضل شريحة متعامل ooredoo,Positif,Positif
 156,Mohamed Mohamed,vive ooredoo,Positif,Positif
-156,Habib Mensoul,merci ooredoo algerie felicitations toutes equipe bonne continuation v tre projet mille tehya wa saha ramdankomes mousabakane,Positif,Positif
+156,Habib Mensoul,merci ooredoo algerie felicitations toutes equipe bonne continuation vôtre projet mille tehya wa saha ramdankomes mousabakane,Positif,Positif
 157,أم أميمة,اللهم انصر اخواننا المستضعفين فلسطين الشقيقة,Positif,Positif
 157,Ilyes Papillon,حب حب حب حب,Positif,Positif
 157,Bébè Ahlem,حب حب حب,Positif,Positif
@@ -3028,7 +3029,7 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 157,Fîã Nsø,ما عروض رمضان,Neutre,Neutre
 157,عبد الله زيراري,حب حب حب حب,Positif,Positif
 157,Mohammed Amine Rkn,حب حب,Positif,Positif
-157,Mouloud Ouazine,rapport tr peu insuffisant,Negatif,Negatif
+157,Mouloud Ouazine,rapport très peu insuffisant,Negatif,Negatif
 157,Jumelle De Sirine,حب,Positif,Positif
 157,Hadjira Bouhraoua,اللهم انصر الاسلام والمسلمين مكان زمان غزة تحديد الهم انت المنتقم الجبار اليهود الغاصبين يارب العالمين,Positif,Neutre
 158,Gta Six,خاصني زوج بلايس عمرا الله يحفظكم,Neutre,Neutre
