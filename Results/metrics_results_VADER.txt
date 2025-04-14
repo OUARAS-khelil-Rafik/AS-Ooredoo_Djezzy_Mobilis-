@@ -1,0 +1,14 @@
+🔍 Évaluation des Sentiments
+==================================================
+
+✅ Accuracy du modèle sur l'ensemble de test : 90.73 %
+
+              precision    recall  f1-score   support
+
+     Negatif       0.90      0.91      0.91       862
+      Neutre       0.87      0.85      0.86      1178
+     Positif       0.94      0.95      0.94      1574
+
+    accuracy                           0.91      3614
+   macro avg       0.90      0.90      0.90      3614
+weighted avg       0.91      0.91      0.91      3614
