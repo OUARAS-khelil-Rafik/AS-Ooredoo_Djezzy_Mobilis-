@@ -1,10 +1,10 @@
 ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 1,Yanise Yanise,سلام عليكم ورحمة لديا مشكلة تعبئة بدات تنقص قليل قليل الى بعدها الى بعدها الى اين ذهبت الوحدات تاعي لن اتكلم لم اتصل ليس خاصية رنتي اذن اين مالي الشيء اخي ماهذا لابد استرجاعه,Negatif,Negatif
-1,Jj Kie,عام انتم بخير,Positif,Neutre
-1,Sakou Younes,عام انتم بخير,Positif,Neutre
-1,راني نعاني,عام بخير,Positif,Neutre
+1,Jj Kie,عام انتم بخير,Positif,Positif
+1,Sakou Younes,عام انتم بخير,Positif,Positif
+1,راني نعاني,عام بخير,Positif,Positif
 1,أحمد فيراس,حب,Positif,Positif
-1,مروان سيدهم سيدهم مروان,عام وانتم بخير واتمنا رد لماذا اسئلة لماذا لحاص وكل عام وانتم بخير,Positif,Neutre
+1,مروان سيدهم سيدهم مروان,عام وانتم بخير واتمنا رد لماذا اسئلة لماذا لحاص وكل عام وانتم بخير,Positif,Positif
 1,Mostefa Merabti,سعيدة جديدة سنة,Positif,Positif
 1,وليد برك,اي عروض مدم رن,Neutre,Neutre
 1,Aymen Aymen,تحيا جازي,Positif,Positif
@@ -1729,12 +1729,12 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 96,اية الرحمان,رب رب,Positif,Positif
 96,Benamar Sahraoui,ان شاء الله,Positif,Positif
 96,Oum Zaki,ان شاء الله رب العالمين عام وانت بالف خير وصحه وسعاده رب,Positif,Positif
-96,Rehail Badis,عام وانتم بخير,Positif,Neutre
-96,Nehla Ali,عام وانتم بخير,Positif,Neutre
+96,Rehail Badis,عام وانتم بخير,Positif,Positif
+96,Nehla Ali,عام وانتم بخير,Positif,Positif
 96,Mohamed Elhache,ان شاء الله تكون دايمن جيد,Positif,Positif
-96,ام الانيقه,عام انتم بخير,Positif,Neutre
+96,ام الانيقه,عام انتم بخير,Positif,Positif
 96,Amar Grairi,ان شاء الله,Positif,Positif
-96,On Ishak,عام وانتم بخير,Positif,Neutre
+96,On Ishak,عام وانتم بخير,Positif,Positif
 96,مصطفى تيدير,ان شاء الله عام الخير وعام الرحمه والبركات وسيكون عام خير عام,Positif,Positif
 96,David Jalile,عام وانتم بالف خير مزيد التقدم والنجاح امين,Positif,Positif
 96,سرية أبوبكر,عام وانتم بالف خير,Positif,Positif
@@ -1748,7 +1748,7 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 96,Hamza Bellili,الله بارك ما شاء الله ربي يحفظكم يحميكم,Positif,Positif
 96,Fahima Ait Ait,رب,Positif,Positif
 96,ولد توات ولد توات,اللهم امين اجمعين,Positif,Positif
-96,Louai Lilaoui,عام وانتم بخير,Positif,Neutre
+96,Louai Lilaoui,عام وانتم بخير,Positif,Positif
 96,Oum Safoin,الهم امين رب العلامين,Positif,Positif
 96,Amar Grairi,تهانينا,Positif,Positif
 97,Sîdàlî Bëlãrbî,القوة الضاربة شبكة صفر خدمات صفر لو كنا بلد يحاسب قدمتم خدمات,Negatif,Negatif
@@ -1958,7 +1958,7 @@ ID Post,User Name,Comments,Sentiments,Predicted_Sentiment
 106,Pat Chino,حب حب,Positif,Positif
 106,Oùm Racha,bon continuation,Positif,Positif
 106,ريم حنة حنة,سنة انتم بالف خير المزيد التالق النجاح حب حب حب حب حب حب حب,Positif,Positif
-106,دعاء دعاء,عام وانتم بخير,Positif,Neutre
+106,دعاء دعاء,عام وانتم بخير,Positif,Positif
 106,ماريا ماريا,بالتوفيق,Positif,Positif
 106,Amar Grairi,سنة وانتم الافق,Positif,Positif
 106,سعودب بن صدوق,سنة معكم سنة وانتم يوم جديد وافاق مشرق الخدمات واستمرارية حل خدمات سنة وانتم بالف خير,Positif,Positif
