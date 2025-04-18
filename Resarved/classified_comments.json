@@ -1,0 +1,588 @@
+{
+  "1": {
+    "categories": [
+      "Overcharging and Stolen Credit Issues",
+      "Suggestions"
+    ]
+  },
+  "2": {
+    "categories": [
+      "Loyalty Expression",
+      "Suggestions"
+    ]
+  },
+  "3": {
+    "categories": [
+      "Loyalty Expression",
+      "Suggestions"
+    ]
+  },
+  "4": {
+    "categories": [
+      "Loyalty Expression",
+      "Suggestions"
+    ]
+  },
+  "5": {
+    "categories": [
+      "Suggestions",
+      "Loyalty Expression"
+    ]
+  },
+  "6": {
+    "categories": [
+      "Loyalty Expression",
+      "Suggestions"
+    ]
+  },
+  "7": {
+    "categories": [
+      "Promotions & Discounts",
+      "Suggestions"
+    ]
+  },
+  "8": {
+    "categories": [
+      "Loyalty Expression"
+    ]
+  },
+  "9": {
+    "categories": [
+      "Loyalty Expression"
+    ]
+  },
+  "10": {
+    "categories": [
+      "Suggestions",
+      "Competitor Pricing & Value (Mobilis and Djezzy)"
+    ]
+  },
+  "11": {
+    "categories": [
+      "Loyalty Expression",
+      "Suggestions"
+    ]
+  },
+  "12": {
+    "categories": [
+      "Coverage Issues",
+      "Suggestions"
+    ]
+  },
+  "13": {
+    "categories": [
+      "Loyalty Expression"
+    ]
+  },
+  "14": {
+    "categories": [
+      "Coverage Issues",
+      "Suggestions"
+    ]
+  },
+  "15": {
+    "categories": [
+      "Overcharging and Stolen Credit Issues",
+      "Suggestions"
+    ]
+  },
+  "16": {
+    "categories": [
+      "Loyalty Expression"
+    ]
+  },
+  "17": {
+    "categories": [
+      "Overcharging and Stolen Credit Issues",
+      "Suggestions"
+    ]
+  },
+  "18": {
+    "categories": [
+      "Coverage Issues",
+      "Suggestions"
+    ]
+  },
+  "19": {
+    "categories": [
+      "Suggestions",
+      "Loyalty Expression"
+    ]
+  },
+  "20": {
+    "categories": [
+      "Suggestions",
+      "Loyalty Expression"
+    ]
+  },
+  "21": {
+    "categories": [
+      "Competitor Data Consumption",
+      "Suggestions"
+    ]
+  },
+  "22": {
+    "categories": [
+      "Data Quality Issues (3G, 4G)",
+      "Coverage Issues"
+    ]
+  },
+  "23": {
+    "categories": [
+      "Suggestions",
+      "Loyalty Expression"
+    ]
+  },
+  "24": {
+    "categories": [
+      "Call Quality Issues"
+    ]
+  },
+  "25": {
+    "categories": [
+      "Coverage Issues",
+      "Suggestions"
+    ]
+  },
+  "26": {
+    "categories": [
+      "Coverage Issues",
+      "Suggestions"
+    ]
+  },
+  "27": {
+    "categories": [
+      "Coverage Issues",
+      "Suggestions"
+    ]
+  },
+  "28": {
+    "categories": [
+      "Coverage Issues",
+      "Suggestions"
+    ]
+  },
+  "29": {
+    "categories": [
+      "Suggestions",
+      "Service Information Request"
+    ]
+  },
+  "30": {
+    "categories": [
+      "Loyalty Expression"
+    ]
+  },
+  "31": {
+    "categories": [
+      "Suggestions",
+      "Service Information Request"
+    ]
+  },
+  "32": {
+    "categories": [
+      "Overcharging and Stolen Credit Issues",
+      "Suggestions"
+    ]
+  },
+  "33": {
+    "categories": [
+      "Promotions & Discounts",
+      "Suggestions"
+    ]
+  },
+  "34": {
+    "categories": [
+      "Other"
+    ]
+  },
+  "35": {
+    "categories": [
+      "Service Information Request",
+      "Suggestions"
+    ]
+  },
+  "36": {
+    "categories": [
+      "Other"
+    ]
+  },
+  "37": {
+    "categories": [
+      "Suggestions",
+      "Promotions & Discounts"
+    ]
+  },
+  "38": {
+    "categories": [
+      "Competitor Pricing & Value (Mobilis and Djezzy)",
+      "Suggestions"
+    ]
+  },
+  "39": {
+    "categories": [
+      "Competitor Pricing & Value (Mobilis and Djezzy)",
+      "Suggestions"
+    ]
+  },
+  "40": {
+    "categories": [
+      "Suggestions",
+      "Subscription & Plan Issues"
+    ]
+  },
+  "41": {
+    "categories": [
+      "Suggestions",
+      "Other"
+    ]
+  },
+  "42": {
+    "categories": [
+      "Suggestions",
+      "Loyalty Expression"
+    ]
+  },
+  "43": {
+    "categories": [
+      "Suggestions",
+      "Loyalty Expression"
+    ]
+  },
+  "44": {
+    "categories": [
+      "Suggestions",
+      "Service Information Request"
+    ]
+  },
+  "45": {
+    "categories": [
+      "Other"
+    ]
+  },
+  "46": {
+    "categories": [
+      "Coverage Issues",
+      "Suggestions"
+    ]
+  },
+  "47": {
+    "categories": [
+      "Data Quality Issues (3G, 4G)",
+      "Suggestions"
+    ]
+  },
+  "48": {
+    "categories": [
+      "Coverage Issues",
+      " suggestions"
+    ]
+  },
+  "49": {
+    "categories": [
+      "Suggestions",
+      "Loyalty Expression"
+    ]
+  },
+  "50": {
+    "categories": [
+      "Coverage Issues",
+      "Data Quality Issues (3G, 4G)"
+    ]
+  },
+  "51": {
+    "categories": [
+      "Suggestions",
+      "Loyalty Expression"
+    ]
+  },
+  "52": {
+    "categories": [
+      "Promotions & Discounts",
+      "Suggestions"
+    ]
+  },
+  "53": {
+    "categories": [
+      "Suggestions",
+      "Service Information Request"
+    ]
+  },
+  "54": {
+    "categories": [
+      "Promotions & Discounts",
+      "Suggestions"
+    ]
+  },
+  "55": {
+    "categories": [
+      "Competitor Data Consumption",
+      "Suggestions"
+    ]
+  },
+  "56": {
+    "categories": [
+      "Suggestions",
+      "Promotions & Discounts"
+    ]
+  },
+  "57": {
+    "categories": [
+      "Competitor Pricing & Value (Mobilis and Djezzy)",
+      "Suggestions"
+    ]
+  },
+  "58": {
+    "categories": [
+      "Other"
+    ]
+  },
+  "59": {
+    "categories": [
+      "Suggestions",
+      "Competitor Data Consumption"
+    ]
+  },
+  "60": {
+    "categories": [
+      "Coverage Issues",
+      "Suggestions"
+    ]
+  },
+  "61": {
+    "categories": [
+      "Subscription & Plan Issues",
+      "Service Information Request"
+    ]
+  },
+  "62": {
+    "categories": [
+      "Suggestions",
+      "Competitor Data Consumption"
+    ]
+  },
+  "63": {
+    "categories": [
+      "Promotions & Discounts",
+      "Suggestions"
+    ]
+  },
+  "64": {
+    "categories": [
+      "Competitor Pricing & Value (Mobilis and Djezzy)",
+      "Suggestions"
+    ]
+  },
+  "65": {
+    "categories": [
+      "Other"
+    ]
+  },
+  "66": {
+    "categories": [
+      "Coverage Issues",
+      "Service Information Request"
+    ]
+  },
+  "67": {
+    "categories": [
+      "Suggestions",
+      "Service Information Request"
+    ]
+  },
+  "68": {
+    "categories": [
+      "Promotions & Discounts",
+      "Suggestions"
+    ]
+  },
+  "69": {
+    "categories": [
+      "Suggestions",
+      "Other"
+    ]
+  },
+  "70": {
+    "categories": [
+      "Loyalty Expression"
+    ]
+  },
+  "71": {
+    "categories": [
+      "Suggestions",
+      "Loyalty Expression"
+    ]
+  },
+  "72": {
+    "categories": [
+      "Overcharging and Stolen Credit Issues",
+      "Suggestions"
+    ]
+  },
+  "73": {
+    "categories": [
+      "Suggestions",
+      "Service Information Request"
+    ]
+  },
+  "74": {
+    "categories": [
+      "Suggestions",
+      "Loyalty Expression"
+    ]
+  },
+  "75": {
+    "categories": [
+      "Other",
+      "Suggestions"
+    ]
+  },
+  "76": {
+    "categories": [
+      "Promotions & Discounts",
+      "Suggestions"
+    ]
+  },
+  "77": {
+    "categories": [
+      "Coverage Issues",
+      "Agent Behavior"
+    ]
+  },
+  "78": {
+    "categories": [
+      "Loyalty Expression",
+      "Suggestions"
+    ]
+  },
+  "79": {
+    "categories": [
+      "Loyalty Expression",
+      "Suggestions"
+    ]
+  },
+  "80": {
+    "categories": [
+      "Loyalty Expression",
+      "Suggestions"
+    ]
+  },
+  "81": {
+    "categories": [
+      "Loyalty Expression",
+      "Suggestions"
+    ]
+  },
+  "82": {
+    "categories": [
+      "Suggestions",
+      "Loyalty Expression"
+    ]
+  },
+  "83": {
+    "categories": [
+      "Suggestions",
+      "Loyalty Expression"
+    ]
+  },
+  "84": {
+    "categories": [
+      "Suggestions",
+      "Other"
+    ]
+  },
+  "85": {
+    "categories": [
+      "Suggestions",
+      "Loyalty Expression"
+    ]
+  },
+  "86": {
+    "categories": [
+      "Suggestions",
+      "Other"
+    ]
+  },
+  "87": {
+    "categories": [
+      "Competitor Pricing & Value (Mobilis and Djezzy)",
+      "Suggestions"
+    ]
+  },
+  "88": {
+    "categories": [
+      "Suggestions",
+      "Other"
+    ]
+  },
+  "89": {
+    "categories": [
+      "Promotions & Discounts",
+      "Suggestions"
+    ]
+  },
+  "90": {
+    "categories": [
+      "Suggestions",
+      "Loyalty Expression"
+    ]
+  },
+  "91": {
+    "categories": [
+      "Loyalty Expression",
+      "Suggestions"
+    ]
+  },
+  "92": {
+    "categories": [
+      "Suggestions",
+      "Loyalty Expression"
+    ]
+  },
+  "93": {
+    "categories": [
+      "Loyalty Expression"
+    ]
+  },
+  "94": {
+    "categories": [
+      "Loyalty Expression"
+    ]
+  },
+  "95": {
+    "categories": [
+      "Suggestions",
+      "Loyalty Expression"
+    ]
+  },
+  "96": {
+    "categories": [
+      "Competitor Pricing & Value (Mobilis and Djezzy)",
+      "Suggestions"
+    ]
+  },
+  "97": {
+    "categories": [
+      "Competitor Pricing & Value (Mobilis and Djezzy)",
+      "Suggestions"
+    ]
+  },
+  "98": {
+    "categories": [
+      "Loyalty Expression",
+      "Suggestions"
+    ]
+  },
+  "99": {
+    "categories": [
+      "Suggestions",
+      "Other"
+    ]
+  },
+  "100": {
+    "categories": [
+      "Coverage Issues",
+      "Suggestions"
+    ]
+  }
+}
