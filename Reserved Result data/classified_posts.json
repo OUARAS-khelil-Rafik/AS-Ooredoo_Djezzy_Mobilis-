@@ -1,0 +1,738 @@
+{
+    "1": {
+        "categories": [
+            "Culture & Celebration"
+        ]
+    },
+    "2": {
+        "categories": [
+            "Other"
+        ]
+    },
+    "3": {
+        "categories": [
+            "Sport"
+        ]
+    },
+    "4": {
+        "categories": [
+            "Culture & Celebration",
+            "Event"
+        ]
+    },
+    "5": {
+        "categories": [
+            "Other"
+        ]
+    },
+    "6": {
+        "categories": [
+            "Product",
+            "Network"
+        ]
+    },
+    "7": {
+        "categories": [
+            "Product",
+            "Network"
+        ]
+    },
+    "8": {
+        "categories": [
+            "Product",
+            "Network"
+        ]
+    },
+    "9": {
+        "categories": [
+            "Product",
+            "Event"
+        ]
+    },
+    "10": {
+        "categories": [
+            "Sport"
+        ]
+    },
+    "11": {
+        "categories": [
+            "Product",
+            "Network"
+        ]
+    },
+    "12": {
+        "categories": [
+            "Event",
+            "Promotion"
+        ]
+    },
+    "13": {
+        "categories": [
+            "Culture & Celebration",
+            "Event"
+        ]
+    },
+    "14": {
+        "categories": [
+            "Product",
+            "Promotion"
+        ]
+    },
+    "15": {
+        "categories": [
+            "Survey",
+            "Network"
+        ]
+    },
+    "16": {
+        "categories": [
+            "Contest & Games",
+            "Other"
+        ]
+    },
+    "17": {
+        "categories": [
+            "Other"
+        ]
+    },
+    "18": {
+        "categories": [
+            "Event"
+        ]
+    },
+    "19": {
+        "categories": [
+            "Event",
+            "Contest & Games"
+        ]
+    },
+    "20": {
+        "categories": [
+            "Other"
+        ]
+    },
+    "21": {
+        "categories": [
+            "Event",
+            "Network"
+        ]
+    },
+    "22": {
+        "categories": [
+            "Event",
+            "Culture & Celebration"
+        ]
+    },
+    "23": {
+        "categories": [
+            "Event"
+        ]
+    },
+    "24": {
+        "categories": [
+            "Event",
+            "Contest & Games"
+        ]
+    },
+    "25": {
+        "categories": [
+            "Culture & Celebration"
+        ]
+    },
+    "26": {
+        "categories": [
+            "Event",
+            "Contest & Games"
+        ]
+    },
+    "27": {
+        "categories": [
+            "Event",
+            "Contest & Games"
+        ]
+    },
+    "28": {
+        "categories": [
+            "Event"
+        ]
+    },
+    "29": {
+        "categories": [
+            "Other"
+        ]
+    },
+    "30": {
+        "categories": [
+            "Event",
+            "Culture & Celebration"
+        ]
+    },
+    "31": {
+        "categories": [
+            "Product",
+            "Network"
+        ]
+    },
+    "32": {
+        "categories": [
+            "Contest & Games"
+        ]
+    },
+    "33": {
+        "categories": [
+            "Network"
+        ]
+    },
+    "34": {
+        "categories": [
+            "Product"
+        ]
+    },
+    "35": {
+        "categories": [
+            "Culture & Celebration",
+            "Event"
+        ]
+    },
+    "36": {
+        "categories": [
+            "Contest & Games",
+            "Event"
+        ]
+    },
+    "37": {
+        "categories": [
+            "Other"
+        ]
+    },
+    "38": {
+        "categories": [
+            "Event",
+            "Network"
+        ]
+    },
+    "39": {
+        "categories": [
+            "Other"
+        ]
+    },
+    "40": {
+        "categories": [
+            "Product",
+            "Network"
+        ]
+    },
+    "41": {
+        "categories": [
+            "Other"
+        ]
+    },
+    "42": {
+        "categories": [
+            "Other"
+        ]
+    },
+    "43": {
+        "categories": [
+            "Other"
+        ]
+    },
+    "44": {
+        "categories": [
+            "Other"
+        ]
+    },
+    "45": {
+        "categories": [
+            "Other"
+        ]
+    },
+    "46": {
+        "categories": [
+            "Event"
+        ]
+    },
+    "47": {
+        "categories": [
+            "Other"
+        ]
+    },
+    "48": {
+        "categories": [
+            "Event",
+            "Network"
+        ]
+    },
+    "49": {
+        "categories": [
+            "Event",
+            "Product"
+        ]
+    },
+    "50": {
+        "categories": [
+            "Event"
+        ]
+    },
+    "51": {
+        "categories": [
+            "Other"
+        ]
+    },
+    "52": {
+        "categories": [
+            "Network"
+        ]
+    },
+    "53": {
+        "categories": [
+            "Culture & Celebration",
+            "Event"
+        ]
+    },
+    "54": {
+        "categories": [
+            "Event",
+            "Network"
+        ]
+    },
+    "55": {
+        "categories": [
+            "Product",
+            "Event"
+        ]
+    },
+    "56": {
+        "categories": [
+            "Event",
+            "Network"
+        ]
+    },
+    "57": {
+        "categories": [
+            "Other"
+        ]
+    },
+    "58": {
+        "categories": [
+            "Event",
+            "Promotion"
+        ]
+    },
+    "59": {
+        "categories": [
+            "Network"
+        ]
+    },
+    "60": {
+        "categories": [
+            "Other"
+        ]
+    },
+    "61": {
+        "categories": [
+            "Other"
+        ]
+    },
+    "62": {
+        "categories": [
+            "Other"
+        ]
+    },
+    "63": {
+        "categories": [
+            "Culture & Celebration",
+            "Event"
+        ]
+    },
+    "64": {
+        "categories": [
+            "Event",
+            "Network"
+        ]
+    },
+    "65": {
+        "categories": [
+            "Product",
+            "Network"
+        ]
+    },
+    "66": {
+        "categories": [
+            "Other"
+        ]
+    },
+    "67": {
+        "categories": [
+            "Other"
+        ]
+    },
+    "68": {
+        "categories": [
+            "Other"
+        ]
+    },
+    "69": {
+        "categories": [
+            "Product",
+            "Network"
+        ]
+    },
+    "70": {
+        "categories": [
+            "Event",
+            "Network"
+        ]
+    },
+    "71": {
+        "categories": [
+            "Promotion",
+            "Product"
+        ]
+    },
+    "72": {
+        "categories": [
+            "Culture & Celebration"
+        ]
+    },
+    "73": {
+        "categories": [
+            "Product",
+            "Promotion"
+        ]
+    },
+    "74": {
+        "categories": [
+            "Other"
+        ]
+    },
+    "75": {
+        "categories": [
+            "Product"
+        ]
+    },
+    "76": {
+        "categories": [
+            "Other"
+        ]
+    },
+    "77": {
+        "categories": [
+            "Event",
+            "Network"
+        ]
+    },
+    "78": {
+        "categories": [
+            "Event",
+            "Network"
+        ]
+    },
+    "79": {
+        "categories": [
+            "Network"
+        ]
+    },
+    "80": {
+        "categories": [
+            "Event"
+        ]
+    },
+    "81": {
+        "categories": [
+            "Event",
+            "Culture & Celebration"
+        ]
+    },
+    "82": {
+        "categories": [
+            "Event",
+            "Network"
+        ]
+    },
+    "83": {
+        "categories": [
+            "Product"
+        ]
+    },
+    "84": {
+        "categories": [
+            "Other"
+        ]
+    },
+    "85": {
+        "categories": [
+            "Network",
+            "Event"
+        ]
+    },
+    "86": {
+        "categories": [
+            "Other"
+        ]
+    },
+    "87": {
+        "categories": [
+            "Other"
+        ]
+    },
+    "88": {
+        "categories": [
+            "Culture & Celebration",
+            "Event"
+        ]
+    },
+    "89": {
+        "categories": [
+            "Product",
+            "Network"
+        ]
+    },
+    "90": {
+        "categories": [
+            "Product",
+            "Survey"
+        ]
+    },
+    "91": {
+        "categories": [
+            "Product",
+            "Survey"
+        ]
+    },
+    "92": {
+        "categories": [
+            "Product",
+            "Network"
+        ]
+    },
+    "93": {
+        "categories": [
+            "Culture & Celebration",
+            "Event"
+        ]
+    },
+    "94": {
+        "categories": [
+            "Product",
+            "Survey"
+        ]
+    },
+    "95": {
+        "categories": [
+            "Product",
+            "Network"
+        ]
+    },
+    "96": {
+        "categories": [
+            "Culture & Celebration",
+            "Event"
+        ]
+    },
+    "97": {
+        "categories": [
+            "Product",
+            "Network"
+        ]
+    },
+    "98": {
+        "categories": [
+            "Product",
+            "Survey"
+        ]
+    },
+    "99": {
+        "categories": [
+            "Contest & Games",
+            "Other"
+        ]
+    },
+    "100": {
+        "categories": [
+            "Other"
+        ]
+    },
+    "101": {
+        "categories": [
+            "Product",
+            "Network"
+        ]
+    },
+    "102": {
+        "categories": [
+            "Product",
+            "Survey"
+        ]
+    },
+    "103": {
+        "categories": [
+            "Event"
+        ]
+    },
+    "104": {
+        "categories": [
+            "Other"
+        ]
+    },
+    "105": {
+        "categories": [
+            "Event",
+            "Network"
+        ]
+    },
+    "106": {
+        "categories": [
+            "Culture & Celebration",
+            "Event"
+        ]
+    },
+    "107": {
+        "categories": [
+            "Culture & Celebration",
+            "Event"
+        ]
+    },
+    "108": {
+        "categories": [
+            "Event"
+        ]
+    },
+    "109": {
+        "categories": [
+            "Other"
+        ]
+    },
+    "110": {
+        "categories": [
+            "Event",
+            "Sports"
+        ]
+    },
+    "111": {
+        "categories": [
+            "Contest & Games",
+            "Event"
+        ]
+    },
+    "112": {
+        "categories": [
+            "Event"
+        ]
+    },
+    "113": {
+        "categories": [
+            "Survey",
+            "Event"
+        ]
+    },
+    "114": {
+        "categories": [
+            "Event"
+        ]
+    },
+    "115": {
+        "categories": [
+            "Contest & Games",
+            "Product"
+        ]
+    },
+    "116": {
+        "categories": [
+            "Event",
+            "Survey"
+        ]
+    },
+    "117": {
+        "categories": [
+            "Event",
+            "Sports"
+        ]
+    },
+    "118": {
+        "categories": [
+            "Event",
+            "Network"
+        ]
+    },
+    "119": {
+        "categories": [
+            "Other"
+        ]
+    },
+    "120": {
+        "categories": [
+            "Other"
+        ]
+    },
+    "121": {
+        "categories": [
+            "Product",
+            "Network"
+        ]
+    },
+    "122": {
+        "categories": [
+            "Other"
+        ]
+    },
+    "123": {
+        "categories": [
+            "Other"
+        ]
+    },
+    "124": {
+        "categories": [
+            "Product",
+            "Network"
+        ]
+    },
+    "125": {
+        "categories": [
+            "Promotion",
+            "Product"
+        ]
+    },
+    "126": {
+        "categories": [
+            "Product",
+            "Service"
+        ]
+    },
+    "127": {
+        "categories": [
+            "Event",
+            "Promotion"
+        ]
+    },
+    "128": {
+        "categories": [
+            "Culture & Celebration",
+            "Event"
+        ]
+    },
+    "129": {
+        "categories": [
+            "Product",
+            "Promotion"
+        ]
+    },
+    "130": {
+        "categories": [
+            "Promotion",
+            "Product"
+        ]
+    },
+    "131": {
+        "categories": [
+            "Product",
+            "Network"
+        ]
+    },
+    "132": {
+        "categories": [
+            "Product",
+            "Network"
+        ]
+    }
+}
