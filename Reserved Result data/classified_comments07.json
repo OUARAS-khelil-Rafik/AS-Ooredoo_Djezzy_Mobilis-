@@ -1,646 +1,696 @@
 {
-  "1981": {
-    "categories": [
-      "Loyalty Expression"
-    ]
-  },
-  "1982": {
-    "categories": [
-      "Loyalty Expression"
-    ]
-  },
-  "1983": {
-    "categories": [
-      "Coverage Issues",
-      "Suggestions"
-    ]
-  },
-  "1984": {
-    "categories": [
-      "Sarcasm",
-      "Irrelevant"
-    ]
-  },
-  "1985": {
-    "categories": [
-      "Loyalty Expression"
-    ]
-  },
-  "1986": {
-    "categories": [
-      "Data Quality Issues (3G, 4G)",
-      "Coverage Issues"
-    ]
-  },
-  "1987": {
-    "categories": [
-      "Suggestions",
-      "Service Information Request"
-    ]
-  },
-  "1988": {
-    "categories": [
-      "Loyalty Expression"
-    ]
-  },
-  "1989": {
-    "categories": [
-      "Suggestions",
-      "Loyalty Expression"
-    ]
-  },
-  "1990": {
-    "categories": [
-      "Suggestions",
-      "Loyalty Expression"
-    ]
-  },
-  "1991": {
-    "categories": [
-      "Loyalty Expression"
-    ]
-  },
-  "1992": {
-    "categories": [
-      "Data Quality Issues (3G, 4G)",
-      "Suggestions"
-    ]
-  },
-  "1993": {
-    "categories": [
-      "Loyalty Expression"
-    ]
-  },
-  "1994": {
-    "categories": [
-      "Loyalty Expression"
-    ]
-  },
-  "1995": {
-    "categories": [
-      "Other"
-    ]
-  },
-  "1996": {
-    "categories": [
-      "Competitor Pricing & Value (Mobilis and Djezzy)",
-      "Promotions & Discounts"
-    ]
-  },
-  "1997": {
-    "categories": [
-      "Coverage Issues"
-    ]
-  },
-  "1998": {
-    "categories": [
-      "Suggestions",
-      "Loyalty Expression"
-    ]
-  },
-  "1999": {
-    "categories": [
-      "Loyalty Expression",
-      "Suggestions"
-    ]
-  },
-  "2000": {
-    "categories": [
-      "Loyalty Expression"
-    ]
-  },
-  "2001": {
-    "categories": [
-      "Loyalty Expression"
-    ]
-  },
-  "2002": {
-    "categories": [
-      "Loyalty Expression"
-    ]
-  },
-  "2003": {
-    "categories": [
-      "Coverage Issues",
-      "Data Quality Issues (3G, 4G)"
-    ]
-  },
-  "2004": {
-    "categories": [
-      "Suggestions",
-      "Service Information Request"
-    ]
-  },
-  "2005": {
-    "categories": [
-      "Loyalty Expression"
-    ]
-  },
-  "2006": {
-    "categories": [
-      "Loyalty Expression"
-    ]
-  },
-  "2007": {
-    "categories": [
-      "Loyalty Expression"
-    ]
-  },
-  "2008": {
-    "categories": [
-      "Loyalty Expression"
-    ]
-  },
-  "2009": {
-    "categories": [
-      "Loyalty Expression"
-    ]
-  },
-  "2010": {
-    "categories": [
-      "Loyalty Expression"
-    ]
-  },
-  "2011": {
-    "categories": [
-      "Suggestions",
-      "Loyalty Expression"
-    ]
-  },
-  "2012": {
-    "categories": [
-      "Loyalty Expression"
-    ]
-  },
-  "2013": {
-    "categories": [
-      "Loyalty Expression"
-    ]
-  },
-  "2014": {
-    "categories": [
-      "Loyalty Expression"
-    ]
-  },
-  "2015": {
-    "categories": [
-      "Loyalty Expression"
-    ]
-  },
-  "2016": {
-    "categories": [
-      "Promotions & Discounts",
-      "Suggestions"
-    ]
-  },
-  "2017": {
-    "categories": [
-      "Loyalty Expression"
-    ]
-  },
-  "2018": {
-    "categories": [
-      "Loyalty Expression",
-      "Suggestions"
-    ]
-  },
-  "2019": {
-    "categories": [
-      "Competitor Pricing & Value (Mobilis and Djezzy)",
-      "Suggestions"
-    ]
-  },
-  "2020": {
-    "categories": [
-      "Suggestions",
-      "Loyalty Expression"
-    ]
-  },
-  "2021": {
-    "categories": [
-      "Other"
-    ]
-  },
-  "2022": {
-    "categories": [
-      "Suggestions"
-    ]
-  },
-  "2023": {
-    "categories": [
-      "Loyalty Expression"
-    ]
-  },
-  "2024": {
-    "categories": [
-      "Competitor Pricing & Value (Mobilis and Djezzy)",
-      "Suggestions"
-    ]
-  },
-  "2025": {
-    "categories": [
-      "Other"
-    ]
-  },
-  "2026": {
-    "categories": [
-      "Other"
-    ]
-  },
-  "2027": {
-    "categories": [
-      "Other"
-    ]
-  },
-  "2028": {
-    "categories": [
-      "Suggestions"
-    ]
-  },
-  "2029": {
-    "categories": [
-      "Loyalty Expression"
-    ]
-  },
-  "2030": {
-    "categories": [
-      "Suggestions"
-    ]
-  },
-  "2031": {
-    "categories": [
-      "Other"
-    ]
-  },
-  "2032": {
-    "categories": [
-      "Suggestions"
-    ]
-  },
-  "2033": {
-    "categories": [
-      "Suggestions",
-      "Loyalty Expression"
-    ]
-  },
-  "2034": {
-    "categories": [
-      "Loyalty Expression"
-    ]
-  },
-  "2035": {
-    "categories": [
-      "Suggestions",
-      "Loyalty Expression"
-    ]
-  },
-  "2036": {
-    "categories": [
-      "Coverage Issues"
-    ]
-  },
-  "2037": {
-    "categories": [
-      "Overcharging and Stolen Credit Issues"
-    ]
-  },
-  "2038": {
-    "categories": [
-      "Coverage Issues",
-      "Suggestions"
-    ]
-  },
-  "2039": {
-    "categories": [
-      "Other"
-    ]
-  },
-  "2040": {
-    "categories": [
-      "Loyalty Expression"
-    ]
-  },
-  "2041": {
-    "categories": [
-      "Other"
-    ]
-  },
-  "2042": {
-    "categories": [
-      "Loyalty Expression"
-    ]
-  },
-  "2043": {
-    "categories": [
-      "Other"
-    ]
-  },
-  "2044": {
-    "categories": [
-      "Other"
-    ]
-  },
-  "2045": {
-    "categories": [
-      "Other"
-    ]
-  },
-  "2046": {
-    "categories": [
-      "Suggestions",
-      "Loyalty Expression"
-    ]
-  },
-  "2047": {
-    "categories": [
-      "Other"
-    ]
-  },
-  "2048": {
-    "categories": [
-      "Suggestions",
-      "Loyalty Expression"
-    ]
-  },
-  "2049": {
-    "categories": [
-      "Coverage Issues",
-      "Call Quality Issues"
-    ]
-  },
-  "2050": {
-    "categories": [
-      "Suggestions"
-    ]
-  },
-  "2051": {
-    "categories": [
-      "Suggestions",
-      "Loyalty Expression"
-    ]
-  },
-  "2052": {
-    "categories": [
-      "Loyalty Expression"
-    ]
-  },
-  "2053": {
-    "categories": [
-      "Suggestions",
-      "Loyalty Expression"
-    ]
-  },
-  "2054": {
-    "categories": [
-      "Suggestions",
-      "Loyalty Expression"
-    ]
-  },
-  "2055": {
-    "categories": [
-      "Loyalty Expression"
-    ]
-  },
-  "2056": {
-    "categories": [
-      "Other"
-    ]
-  },
-  "2057": {
-    "categories": [
-      "Suggestions",
-      "Loyalty Expression"
-    ]
-  },
-  "2058": {
-    "categories": [
-      "Coverage Issues"
-    ]
-  },
-  "2059": {
-    "categories": [
-      "Loyalty Expression",
-      "Suggestions"
-    ]
-  },
-  "2060": {
-    "categories": [
-      "Competitor Pricing & Value (Mobilis and Djezzy)",
-      "Suggestions"
-    ]
-  },
-  "2061": {
-    "categories": [
-      "Coverage Issues",
-      "Suggestions"
-    ]
-  },
-  "2062": {
-    "categories": [
-      "Other"
-    ]
-  },
-  "2063": {
-    "categories": [
-      "Other"
-    ]
-  },
-  "2064": {
-    "categories": [
-      "Coverage Issues",
-      "Call Quality Issues"
-    ]
-  },
-  "2065": {
-    "categories": [
-      "Coverage Issues"
-    ]
-  },
-  "2066": {
-    "categories": [
-      "Agent Behavior"
-    ]
-  },
-  "2067": {
-    "categories": [
-      "Promotions & Discounts",
-      "Suggestions"
-    ]
-  },
-  "2068": {
-    "categories": [
-      "Competitor Pricing & Value (Mobilis and Djezzy)",
-      "Suggestions"
-    ]
-  },
-  "2069": {
-    "categories": [
-      "Suggestions"
-    ]
-  },
-  "2070": {
-    "categories": [
-      "Other"
-    ]
-  },
-  "2071": {
-    "categories": [
-      "Competitor Pricing & Discounts",
-      "Suggestions"
-    ]
-  },
-  "2072": {
-    "categories": [
-      "Agent Behavior",
-      "Suggestions"
-    ]
-  },
-  "2073": {
-    "categories": [
-      "Other"
-    ]
-  },
-  "2074": {
-    "categories": [
-      "Data Quality Issues (3G, 4G)",
-      "Suggestions"
-    ]
-  },
-  "2075": {
-    "categories": [
-      "Coverage Issues",
-      "Service Information Request"
-    ]
-  },
-  "2076": {
-    "categories": [
-      "Other"
-    ]
-  },
-  "2077": {
-    "categories": [
-      "Data Quality Issues (3G, 4G)",
-      "Coverage Issues"
-    ]
-  },
-  "2078": {
-    "categories": [
-      "Coverage Issues"
-    ]
-  },
-  "2079": {
-    "categories": [
-      "Suggestions"
-    ]
-  },
-  "2080": {
-    "categories": [
-      "Competitor Pricing & Value (Mobilis and Djezzy)",
-      "Suggestions"
-    ]
-  },
-  "2081": {
-    "categories": [
-      "Other"
-    ]
-  },
-  "2082": {
-    "categories": [
-      "Loyalty Expression"
-    ]
-  },
-  "2083": {
-    "categories": [
-      "Suggestions"
-    ]
-  },
-  "2084": {
-    "categories": [
-      "Loyalty Expression"
-    ]
-  },
-  "2085": {
-    "categories": [
-      "Competitor Pricing & Value (Mobilis and Djezzy)"
-    ]
-  },
-  "2086": {
-    "categories": [
-      "Competitor Pricing & Value (Mobilis and Djezzy)",
-      "Suggestions"
-    ]
-  },
-  "2087": {
-    "categories": [
-      "Suggestions"
-    ]
-  },
-  "2088": {
-    "categories": [
-      "Suggestions"
-    ]
-  },
-  "2089": {
-    "categories": [
-      "Other"
-    ]
-  },
-  "2090": {
-    "categories": [
-      "Loyalty Expression"
-    ]
-  },
-  "2091": {
-    "categories": [
-      "Other"
-    ]
-  },
-  "2092": {
-    "categories": [
-      "Loyalty Expression"
-    ]
-  },
-  "2093": {
-    "categories": [
-      "Loyalty Expression"
-    ]
-  },
-  "2094": {
-    "categories": [
-      "Competitor Pricing & Value (Mobilis and Djezzy)"
-    ]
-  },
-  "2095": {
-    "categories": [
-      "Suggestions"
-    ]
-  },
-  "2096": {
-    "categories": [
-      "Competitor Pricing & Value (Mobilis and Djezzy)",
-      "Competitor Plan Flexibility (Mobilis and Djezzy)"
-    ]
-  },
-  "2097": {
-    "categories": [
-      "Hidden Charges",
-      "Suggestions"
-    ]
-  },
-  "2098": {
-    "categories": [
-      "Other"
-    ]
-  },
-  "2099": {
-    "categories": [
-      "Competitor Pricing & Value (Mobilis and Djezzy)",
-      "Competitor Plan Flexibility (Mobilis and Djezzy)"
-    ]
-  },
-  "2100": {
-    "categories": [
-      "Coverage Issues"
-    ]
-  }
+    "1981": {
+      "categories": [
+        "Loyalty Expression"
+      ]
+    },
+    "1982": {
+      "categories": [
+        "Loyalty Expression"
+      ]
+    },
+    "1983": {
+      "categories": [
+        "Coverage Issues",
+        "Suggestions"
+      ]
+    },
+    "1984": {
+      "categories": [
+        "Sarcasm",
+        "Irrelevant"
+      ]
+    },
+    "1985": {
+      "categories": [
+        "Loyalty Expression"
+      ]
+    },
+    "1986": {
+      "categories": [
+        "Data Quality Issues (3G, 4G)",
+        "Coverage Issues"
+      ]
+    },
+    "1987": {
+      "categories": [
+        "Suggestions",
+        "Service Information Request"
+      ]
+    },
+    "1988": {
+      "categories": [
+        "Loyalty Expression"
+      ]
+    },
+    "1989": {
+      "categories": [
+        "Suggestions",
+        "Loyalty Expression"
+      ]
+    },
+    "1990": {
+      "categories": [
+        "Suggestions",
+        "Loyalty Expression"
+      ]
+    },
+    "1991": {
+      "categories": [
+        "Loyalty Expression"
+      ]
+    },
+    "1992": {
+      "categories": [
+        "Data Quality Issues (3G, 4G)",
+        "Suggestions"
+      ]
+    },
+    "1993": {
+      "categories": [
+        "Loyalty Expression"
+      ]
+    },
+    "1994": {
+      "categories": [
+        "Loyalty Expression"
+      ]
+    },
+    "1995": {
+      "categories": [
+        "Other"
+      ]
+    },
+    "1996": {
+      "categories": [
+        "Competitor Pricing & Value (Mobilis and Djezzy)",
+        "Promotions & Discounts"
+      ]
+    },
+    "1997": {
+      "categories": [
+        "Coverage Issues"
+      ]
+    },
+    "1998": {
+      "categories": [
+        "Suggestions",
+        "Loyalty Expression"
+      ]
+    },
+    "1999": {
+      "categories": [
+        "Loyalty Expression",
+        "Suggestions"
+      ]
+    },
+    "2000": {
+      "categories": [
+        "Loyalty Expression"
+      ]
+    },
+    "2001": {
+      "categories": [
+        "Loyalty Expression"
+      ]
+    },
+    "2002": {
+      "categories": [
+        "Loyalty Expression"
+      ]
+    },
+    "2003": {
+      "categories": [
+        "Coverage Issues",
+        "Data Quality Issues (3G, 4G)"
+      ]
+    },
+    "2004": {
+      "categories": [
+        "Suggestions",
+        "Service Information Request"
+      ]
+    },
+    "2005": {
+      "categories": [
+        "Loyalty Expression"
+      ]
+    },
+    "2006": {
+      "categories": [
+        "Loyalty Expression"
+      ]
+    },
+    "2007": {
+      "categories": [
+        "Loyalty Expression"
+      ]
+    },
+    "2008": {
+      "categories": [
+        "Loyalty Expression"
+      ]
+    },
+    "2009": {
+      "categories": [
+        "Loyalty Expression"
+      ]
+    },
+    "2010": {
+      "categories": [
+        "Loyalty Expression"
+      ]
+    },
+    "2011": {
+      "categories": [
+        "Suggestions",
+        "Loyalty Expression"
+      ]
+    },
+    "2012": {
+      "categories": [
+        "Loyalty Expression"
+      ]
+    },
+    "2013": {
+      "categories": [
+        "Loyalty Expression"
+      ]
+    },
+    "2014": {
+      "categories": [
+        "Loyalty Expression"
+      ]
+    },
+    "2015": {
+      "categories": [
+        "Loyalty Expression"
+      ]
+    },
+    "2016": {
+      "categories": [
+        "Promotions & Discounts",
+        "Suggestions"
+      ]
+    },
+    "2017": {
+      "categories": [
+        "Loyalty Expression"
+      ]
+    },
+    "2018": {
+      "categories": [
+        "Loyalty Expression",
+        "Suggestions"
+      ]
+    },
+    "2019": {
+      "categories": [
+        "Competitor Pricing & Value (Mobilis and Djezzy)",
+        "Suggestions"
+      ]
+    },
+    "2020": {
+      "categories": [
+        "Suggestions",
+        "Loyalty Expression"
+      ]
+    },
+    "2021": {
+      "categories": [
+        "Other"
+      ]
+    },
+    "2022": {
+      "categories": [
+        "Suggestions"
+      ]
+    },
+    "2023": {
+      "categories": [
+        "Loyalty Expression"
+      ]
+    },
+    "2024": {
+      "categories": [
+        "Competitor Pricing & Value (Mobilis and Djezzy)",
+        "Suggestions"
+      ]
+    },
+    "2025": {
+      "categories": [
+        "Other"
+      ]
+    },
+    "2026": {
+      "categories": [
+        "Other"
+      ]
+    },
+    "2027": {
+      "categories": [
+        "Other"
+      ]
+    },
+    "2028": {
+      "categories": [
+        "Suggestions"
+      ]
+    },
+    "2029": {
+      "categories": [
+        "Loyalty Expression"
+      ]
+    },
+    "2030": {
+      "categories": [
+        "Suggestions"
+      ]
+    },
+    "2031": {
+      "categories": [
+        "Other"
+      ]
+    },
+    "2032": {
+      "categories": [
+        "Suggestions"
+      ]
+    },
+    "2033": {
+      "categories": [
+        "Suggestions",
+        "Loyalty Expression"
+      ]
+    },
+    "2034": {
+      "categories": [
+        "Loyalty Expression"
+      ]
+    },
+    "2035": {
+      "categories": [
+        "Suggestions",
+        "Loyalty Expression"
+      ]
+    },
+    "2036": {
+      "categories": [
+        "Coverage Issues"
+      ]
+    },
+    "2037": {
+      "categories": [
+        "Overcharging and Stolen Credit Issues"
+      ]
+    },
+    "2038": {
+      "categories": [
+        "Coverage Issues",
+        "Suggestions"
+      ]
+    },
+    "2039": {
+      "categories": [
+        "Other"
+      ]
+    },
+    "2040": {
+      "categories": [
+        "Loyalty Expression"
+      ]
+    },
+    "2041": {
+      "categories": [
+        "Other"
+      ]
+    },
+    "2042": {
+      "categories": [
+        "Loyalty Expression"
+      ]
+    },
+    "2043": {
+      "categories": [
+        "Other"
+      ]
+    },
+    "2044": {
+      "categories": [
+        "Other"
+      ]
+    },
+    "2045": {
+      "categories": [
+        "Other"
+      ]
+    },
+    "2046": {
+      "categories": [
+        "Suggestions",
+        "Loyalty Expression"
+      ]
+    },
+    "2047": {
+      "categories": [
+        "Other"
+      ]
+    },
+    "2048": {
+      "categories": [
+        "Suggestions",
+        "Loyalty Expression"
+      ]
+    },
+    "2049": {
+      "categories": [
+        "Coverage Issues",
+        "Call Quality Issues"
+      ]
+    },
+    "2050": {
+      "categories": [
+        "Suggestions"
+      ]
+    },
+    "2051": {
+      "categories": [
+        "Suggestions",
+        "Loyalty Expression"
+      ]
+    },
+    "2052": {
+      "categories": [
+        "Loyalty Expression"
+      ]
+    },
+    "2053": {
+      "categories": [
+        "Suggestions",
+        "Loyalty Expression"
+      ]
+    },
+    "2054": {
+      "categories": [
+        "Suggestions",
+        "Loyalty Expression"
+      ]
+    },
+    "2055": {
+      "categories": [
+        "Loyalty Expression"
+      ]
+    },
+    "2056": {
+      "categories": [
+        "Other"
+      ]
+    },
+    "2057": {
+      "categories": [
+        "Suggestions",
+        "Loyalty Expression"
+      ]
+    },
+    "2058": {
+      "categories": [
+        "Coverage Issues"
+      ]
+    },
+    "2059": {
+      "categories": [
+        "Loyalty Expression",
+        "Suggestions"
+      ]
+    },
+    "2060": {
+      "categories": [
+        "Competitor Pricing & Value (Mobilis and Djezzy)",
+        "Suggestions"
+      ]
+    },
+    "2061": {
+      "categories": [
+        "Coverage Issues",
+        "Suggestions"
+      ]
+    },
+    "2062": {
+      "categories": [
+        "Other"
+      ]
+    },
+    "2063": {
+      "categories": [
+        "Other"
+      ]
+    },
+    "2064": {
+      "categories": [
+        "Coverage Issues",
+        "Call Quality Issues"
+      ]
+    },
+    "2065": {
+      "categories": [
+        "Coverage Issues"
+      ]
+    },
+    "2066": {
+      "categories": [
+        "Agent Behavior"
+      ]
+    },
+    "2067": {
+      "categories": [
+        "Promotions & Discounts",
+        "Suggestions"
+      ]
+    },
+    "2068": {
+      "categories": [
+        "Competitor Pricing & Value (Mobilis and Djezzy)",
+        "Suggestions"
+      ]
+    },
+    "2069": {
+      "categories": [
+        "Suggestions"
+      ]
+    },
+    "2070": {
+      "categories": [
+        "Other"
+      ]
+    },
+    "2071": {
+      "categories": [
+        "Competitor Pricing & Discounts",
+        "Suggestions"
+      ]
+    },
+    "2072": {
+      "categories": [
+        "Agent Behavior",
+        "Suggestions"
+      ]
+    },
+    "2073": {
+      "categories": [
+        "Other"
+      ]
+    },
+    "2074": {
+      "categories": [
+        "Data Quality Issues (3G, 4G)",
+        "Suggestions"
+      ]
+    },
+    "2075": {
+      "categories": [
+        "Coverage Issues",
+        "Service Information Request"
+      ]
+    },
+    "2076": {
+      "categories": [
+        "Other"
+      ]
+    },
+    "2077": {
+      "categories": [
+        "Data Quality Issues (3G, 4G)",
+        "Coverage Issues"
+      ]
+    },
+    "2078": {
+      "categories": [
+        "Coverage Issues"
+      ]
+    },
+    "2079": {
+      "categories": [
+        "Suggestions"
+      ]
+    },
+    "2080": {
+      "categories": [
+        "Competitor Pricing & Value (Mobilis and Djezzy)",
+        "Suggestions"
+      ]
+    },
+    "2081": {
+      "categories": [
+        "Other"
+      ]
+    },
+    "2082": {
+      "categories": [
+        "Loyalty Expression"
+      ]
+    },
+    "2083": {
+      "categories": [
+        "Suggestions"
+      ]
+    },
+    "2084": {
+      "categories": [
+        "Loyalty Expression"
+      ]
+    },
+    "2085": {
+      "categories": [
+        "Competitor Pricing & Value (Mobilis and Djezzy)"
+      ]
+    },
+    "2086": {
+      "categories": [
+        "Competitor Pricing & Value (Mobilis and Djezzy)",
+        "Suggestions"
+      ]
+    },
+    "2087": {
+      "categories": [
+        "Suggestions"
+      ]
+    },
+    "2088": {
+      "categories": [
+        "Suggestions"
+      ]
+    },
+    "2089": {
+      "categories": [
+        "Other"
+      ]
+    },
+    "2090": {
+      "categories": [
+        "Loyalty Expression"
+      ]
+    },
+    "2091": {
+      "categories": [
+        "Other"
+      ]
+    },
+    "2092": {
+      "categories": [
+        "Loyalty Expression"
+      ]
+    },
+    "2093": {
+      "categories": [
+        "Loyalty Expression"
+      ]
+    },
+    "2094": {
+      "categories": [
+        "Competitor Pricing & Value (Mobilis and Djezzy)"
+      ]
+    },
+    "2095": {
+      "categories": [
+        "Suggestions"
+      ]
+    },
+    "2096": {
+      "categories": [
+        "Competitor Pricing & Value (Mobilis and Djezzy)",
+        "Competitor Plan Flexibility (Mobilis and Djezzy)"
+      ]
+    },
+    "2097": {
+      "categories": [
+        "Hidden Charges",
+        "Suggestions"
+      ]
+    },
+    "2098": {
+      "categories": [
+        "Other"
+      ]
+    },
+    "2099": {
+      "categories": [
+        "Competitor Pricing & Value (Mobilis and Djezzy)",
+        "Competitor Plan Flexibility (Mobilis and Djezzy)"
+      ]
+    },
+    "2100": {
+      "categories": [
+        "Coverage Issues"
+      ]
+    },
+    "2101": {
+      "categories": [
+        "Promotions & Discounts",
+        "Suggestions"
+      ]
+    },
+    "2102": {
+      "categories": [
+        "Loyalty Expression",
+        "Suggestions"
+      ]
+    },
+    "2103": {
+      "categories": [
+        "Coverage Issues"
+      ]
+    },
+    "2104": {
+      "categories": [
+        "Coverage Issues"
+      ]
+    },
+    "2105": {
+      "categories": [
+        "Coverage Issues"
+      ]
+    },
+    "2106": {
+      "categories": [
+        "Coverage Issues"
+      ]
+    },
+    "2107": {
+      "categories": [
+        "Suggestions",
+        "Service Information Request"
+      ]
+    },
+    "2108": {
+      "categories": [
+        "Coverage Issues",
+        "Service Information Request"
+      ]
+    },
+    "2109": {
+      "categories": [
+        "Suggestions",
+        "Other"
+      ]
+    }
 }
