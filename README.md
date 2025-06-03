@@ -99,8 +99,6 @@ Pour toute question ou suggestion, n'hésitez pas à me contacter :
 
 ## 📄 Licence
 
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus d'informations.
-
 *Ce projet a été réalisé dans le cadre du Projet de Fin d'Études à l'Université d'Alger, Faculté des Sciences, Département d'Informatique.*
 
 [1]: https://github.com/OUARAS-khelil-Rafik/AS-Ooredoo_Djezzy_Mobilis-?utm_source=chatgpt.com "OUARAS-khelil-Rafik/AS-Ooredoo_Djezzy_Mobilis - GitHub"
