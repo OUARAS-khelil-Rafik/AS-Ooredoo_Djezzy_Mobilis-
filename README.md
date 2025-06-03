@@ -42,7 +42,7 @@ AS-Ooredoo_Djezzy_Mobilis/
 * **Environnements** :
 
   * Jupyter Notebook
-  * Google Colab([GitHub][2], [GitHub][1])
+  * Google Colab ([GitHub][1])
 
 ## 📊 Méthodologie
 
@@ -54,7 +54,7 @@ AS-Ooredoo_Djezzy_Mobilis/
    * Modèles traditionnels : SVM, Random Forest
    * Apprentissage profond : LSTM, DziriBERT
 5. **Évaluation** : Analyse des performances des modèles à l'aide de métriques telles que la précision, le rappel et le F1-score.
-6. **Visualisation** : Représentation graphique des résultats pour une meilleure interprétation.([GitHub][1])
+6. **Visualisation** : Représentation graphique des résultats pour une meilleure interprétation.
 
 ## 📈 Résultats
 
@@ -63,7 +63,7 @@ AS-Ooredoo_Djezzy_Mobilis/
 
   * Ooredoo : Sentiments majoritairement positifs.
   * Djezzy : Sentiments mitigés.
-  * Mobilis : Sentiments majoritairement négatifs.([GitHub][2])
+  * Mobilis : Sentiments majoritairement négatifs.
 
 ## 📌 Points Forts
 
@@ -95,7 +95,7 @@ Pour toute question ou suggestion, n'hésitez pas à me contacter :
 
   * Email : [kh.ouaras@univ-alger.dz](mailto:kh.ouaras@univ-alger.dz)
   * GitHub : [OUARAS-khelil-Rafik](https://github.com/OUARAS-khelil-Rafik)
-  * LinkedIn : [OUARAS Khelil Rafik](https://www.linkedin.com/in/ouaras-khelil-rafik/)([GitHub][2])
+  * LinkedIn : [OUARAS Khelil Rafik](https://www.linkedin.com/in/khelil-rafik-ouaras/)
 
 ## 📄 Licence
 
@@ -104,4 +104,3 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus d'i
 *Ce projet a été réalisé dans le cadre du Projet de Fin d'Études à l'Université d'Alger, Faculté des Sciences, Département d'Informatique.*
 
 [1]: https://github.com/OUARAS-khelil-Rafik/AS-Ooredoo_Djezzy_Mobilis-?utm_source=chatgpt.com "OUARAS-khelil-Rafik/AS-Ooredoo_Djezzy_Mobilis - GitHub"
-[2]: https://github.com/OUARAS-khelil-Rafik?utm_source=chatgpt.com "OUARAS-khelil-Rafik - GitHub"
